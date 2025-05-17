@@ -5,7 +5,7 @@ categories: [Lyrics, Translation]
 tags: [chinese, pinyin, song lyrics, c-pop, bilingual, faye, huang xu, wang yi tai]     # TAG names should always be lowercase
 
 image:
-  path: assets/lib/Post-Main/01-youqing-suiyue.jpg
+  path: assets/Post-Main/01-youqing-suiyue.jpg
 ---
 
 <style>
