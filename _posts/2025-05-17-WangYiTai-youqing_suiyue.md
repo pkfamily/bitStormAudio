@@ -294,10 +294,8 @@ With so much betrayal around, loyalty becomes priceless.
 They all told you love is stronger than gold,  
 But for loving you, I could back down no further — I WILL DIE FOR YOU.  
 
-黄旭:  
-TAKE A SHOT FOR YOU  
-**TAKE A SHOT FOR YOU **
-(I’d drink for you.)  
+黄旭:   
+**TAKE A SHOT FOR YOU**  
 
 王以太:  
 一厢情愿 这一挂是大多数  
