@@ -56,6 +56,8 @@ Where are you?
 
 ## Verse 1
 
+### Tizzy T
+
 曾是个性格有点封闭  
 **Céng shì gèxìnggé yǒudiǎn fēngbì**  
 Used to be a bit closed off in personality  
@@ -124,7 +126,7 @@ The most romantic words
 **Shì wǒ hái xiǎng zài chàng shí nián**  
 Are that I want to sing for another ten years  
 
-### Artist 2
+### Capper
 
 在五年前的那天  
 **Zài wǔ nián qián de nà tiān**  
@@ -190,7 +192,7 @@ Because I only care about you
 **Nǐ zhǐ zàihu wǒ**  
 And you only care about me  
 
-## Chorus 
+## Chorus 1
 
 任时光匆匆流去我只在乎你  
 **Rèn shíguāng cōngcōng liú qù wǒ zhǐ zàihu nǐ**  
@@ -225,6 +227,8 @@ Even losing life’s strength wouldn’t be a pity
 So, so, so  
 
 ## Verse 2
+
+### GALI 
 
 你从没变过  
 **Nǐ cóng méi biàn guò**  
@@ -286,7 +290,7 @@ That quietly become
 **Shèng kāi de nàxiē huā**  
 Flowers blooming on the cliff edge  
 
-### Artist 2
+### LASTKINGLX
 
 所以在那些夜里  
 **Suǒyǐ zài nàxiē yèlǐ**  
@@ -352,7 +356,7 @@ Though time rushes by
 **Wǒ hái néng gēn nǐ yīqǐ chàng**  
 I can still sing together with you  
 
-## Chorus 
+## Chorus 2
 
 任时光匆匆流去我只在乎你  
 **Rèn shíguāng cōngcōng liú qù wǒ zhǐ zàihu nǐ**  
@@ -386,7 +390,7 @@ Even losing life’s strength wouldn’t be a pity
 **Suǒyǐ suǒyǐ suǒyǐ**  
 So, so, so  
 
-## Verse 3 
+## Verse 3 (MC Hotdog)
 
 我从十八岁就认识你  
 **Wǒ cóng shíbā suì jiù rènshí nǐ**  
@@ -520,7 +524,7 @@ Let everything remain unsaid
 **Jìng suǒyǒu memories**  
 A toast to all our memories  
 
-## Chorus 
+## Chorus 3
 
 任时光匆匆流去我只在乎你  
 **Rèn shíguāng cōngcōng liú qù wǒ zhǐ zàihu nǐ**  
