@@ -22,6 +22,8 @@ g { color: Green }
 
 ## Intro (MC HotDog)
 
+**Yo**  
+
 这一首歌我想要送给你们  
 **Zhè yī shǒu gē wǒ xiǎng yào sòng gěi nǐmen**  
 I want to dedicate this song to you  
@@ -284,7 +286,7 @@ That quietly become
 **Shèng kāi de nàxiē huā**  
 Flowers blooming on the cliff edge  
 
-## Artist 2
+### Artist 2
 
 所以在那些夜里  
 **Suǒyǐ zài nàxiē yèlǐ**  
@@ -356,8 +358,8 @@ I can still sing together with you
 **Rèn shíguāng cōngcōng liú qù wǒ zhǐ zàihu nǐ**  
 Though time rushes by, I only care about you  
 
-我只在乎你  
-**Wǒ zhǐ zàihu nǐ**  
+我, 我只在乎你  
+**Wǒ, Wǒ zhǐ zàihu nǐ**  
 I only care about you  
 
 心甘情愿感染你的气息  
@@ -524,8 +526,8 @@ A toast to all our memories
 **Rèn shíguāng cōngcōng liú qù wǒ zhǐ zàihu nǐ**  
 Though time rushes by, I only care about you  
 
-我只在乎你  
-**Wǒ zhǐ zàihu nǐ**  
+我, 我只在乎你  
+**Wǒ, Wǒ zhǐ zàihu nǐ**  
 I only care about you  
 
 心甘情愿感染你的气息  
@@ -560,13 +562,13 @@ So I beg you
 **Bié ràng wǒ líkāi nǐ**  
 Don’t let me leave you  
 
-除了你我不能感到 现场每一个人  
-**Chúle nǐ wǒ bùnéng gǎndào xiànchǎng měi yī gè rén**  
-Without you I can't feel—everyone here tonight  
+除了你我不能感到 (现场每一个人)  
+**Chúle nǐ wǒ bùnéng gǎndào (xiànchǎng měi yī gè rén)**  
+Without you I can't feel (everyone here tonight)  
 
-一丝丝情意 每一个把手借给我  
-**Yī sī sī qíngyì měi yī gè bǎ shǒu jiè gěi wǒ**  
-A thread of affection—everyone lend me your hands  
+一丝丝情意 (每一个把手借给我)  
+**Yī sī sī qíngyì (měi yī gè bǎ shǒu jiè gěi wǒ)**  
+A thread of affection (everyone lend me your hands)  
 
 每一个人  
 **Měi yī gè rén**  
