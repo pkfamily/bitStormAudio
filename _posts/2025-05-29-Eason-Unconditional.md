@@ -1,5 +1,5 @@
 ---
-title: Eason Chan (陳奕迅) - Unconditional (無條件) Lyrics
+title: 陳奕迅 (Eason Chan) - 無條件 (Unconditional) Lyrics
 date: 2025-05-29 08:00:00 -0800
 categories: [Lyrics, Cantonese]
 tags: [chinese, pinyin, song lyrics, c-pop, bilingual, eason chan, 陳奕迅]     # TAG names should always be lowercase

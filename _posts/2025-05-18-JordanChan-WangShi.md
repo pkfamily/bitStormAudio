@@ -1,5 +1,5 @@
 ---
-title: 陈小春、张智霖、GAI等演唱歌曲 - 往事只能回味 Lyrics
+title: 陈小春、张智霖、GAI等演唱歌曲 - 往事只能回味 (The past can only be reminisced) Lyrics
 date: 2025-05-18 08:00:00 -0800
 categories: [Lyrics, Translation]
 tags: [chinese, pinyin, song lyrics, c-pop, bilingual]     # TAG names should always be lowercase

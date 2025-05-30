@@ -1,8 +1,8 @@
 ---
-title: MC Hotdog - 我只在乎你 Lyrics
+title: MC Hotdog - 我只在乎你 (I Only Care About You) Lyrics
 date: 2025-05-22 08:00:00 -0800
 categories: [Lyrics, Translation]
-tags: [chinese, pinyin, song lyrics, c-pop, bilingual]     # TAG names should always be lowercase
+tags: [chinese, pinyin, song lyrics, c-pop, mandarin]     # TAG names should always be lowercase
 
 image:
   path: assets/Post-Main/04-MCHotdog-WoZhi.jpg
