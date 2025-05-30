@@ -17,7 +17,9 @@ g { color: Green }
 </style>
 
 
-## Lyrics
+## Song Information
+
+## Verse 1
 
 你, 何以始終不說話  
 **nei5 ho4 ji5 ci2 zung1 bat1 syut3 waa6**  
@@ -71,6 +73,8 @@ Let me ask, who decides what things are called perfect and flawless?
 **ngo5 zi2 dung2 dak1 oi3 nei5 zoi6 mui5 tin1**  
 All I know is loving you every single day  
 
+## Chorus 1 
+
 當潮流愛新鮮  
 **dong1 ciu4 lau4 oi3 san1 sin1**  
 When trends love what's fresh and new  
@@ -98,6 +102,8 @@ Because the truest love in this world doesn’t measure conditions
 誰又可清楚看見  
 **seoi4 jau6 ho2 cing1 co2 hon3 gin3**  
 Who could ever clearly see this?  
+
+## Verse 2
 
 美 難免總有些缺憾  
 **mei5 naan4 min5 zung2 jau5 se1 kyut3 ham6**  
@@ -154,6 +160,8 @@ That I have many things that fall short of perfection
 我只懂得 再努力每天  
 **ngo5 zi2 dung2 dak1 zoi3 nou5 lik6 mui5 jat6 tin1**  
 All I know is to keep working hard every day  
+
+## Chorus 2
 
 當潮流愛新鮮  
 **dong1 ciu4 lau4 oi3 san1 sin1**  
