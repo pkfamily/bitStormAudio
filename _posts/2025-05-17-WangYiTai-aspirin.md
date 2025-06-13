@@ -2,7 +2,7 @@
 title: 王以太 - 阿司匹林 (Aspirin) Lyrics
 date: 2025-05-17 08:00:00 -0800
 categories: [Lyrics, Translation]
-tags: [chinese, pinyin, song lyrics, c-pop, bilingual, wang yi tai]     # TAG names should always be lowercase
+tags: [chinese, pinyin, song lyrics, c-pop, mandarin, wang yi tai, 王以太]     # TAG names should always be lowercase
 
 image:
   path: assets/Post-Main/02-aspirin.jpg

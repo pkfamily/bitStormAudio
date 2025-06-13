@@ -570,13 +570,10 @@ Don’t let me leave you
 **Chúle nǐ wǒ bùnéng gǎndào (xiànchǎng měi yī gè rén)**  
 Without you I can't feel (everyone here tonight)  
 
-一丝丝情意 (每一个把手借给我)  
-**Yī sī sī qíngyì (měi yī gè bǎ shǒu jiè gěi wǒ)**  
-A thread of affection (everyone lend me your hands)  
+一丝丝情意 (每一个把手借给我, 每一个人)  
+**Yī sī sī qíngyì (měi yī gè bǎ shǒu jiè gěi wǒ, Měi yī gè rén)**  
+A thread of affection (everyone lend me your hands, everyone)  
 
-每一个人  
-**Měi yī gè rén**  
-Everyone  
 
 ## Outro 1
 
@@ -611,6 +608,19 @@ Let’s feel it together
 这个节奏  
 **Zhège jiézòu**  
 This rhythm  
+
+让我看你把手都放在空中  
+**Ràng wǒ kàn nǐ bǎ shǒu dōu fàng zài kōngzhōng**  
+Let me see you raise your hands into the air  
+
+一起感受  
+**Yīqǐ gǎnshòu**  
+Let’s feel it together  
+
+这个节奏  
+**Zhège jiézòu**  
+This rhythm  
+
 
 ## Outro 2
 

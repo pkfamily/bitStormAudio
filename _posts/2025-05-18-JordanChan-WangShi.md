@@ -2,7 +2,7 @@
 title: 陈小春、张智霖、GAI等演唱歌曲 - 往事只能回味 (The past can only be reminisced) Lyrics
 date: 2025-05-18 08:00:00 -0800
 categories: [Lyrics, Translation]
-tags: [chinese, pinyin, song lyrics, c-pop, bilingual]     # TAG names should always be lowercase
+tags: [chinese, pinyin, song lyrics, cantonese, mandarin, bilingual]     # TAG names should always be lowercase
 
 image:
   path: assets/Post-Main/03-WangShi.jpg
@@ -17,6 +17,7 @@ g { color: Green }
 </style>
 
 ## Intro
+
 时光一去永不回  
 **Shíguāng yī qù yǒng bù huí**  
 Time, once gone, never returns  
@@ -33,7 +34,7 @@ Remembering childhood days, when we played together so innocently
 **Liǎng xiǎo wú cāi rì yè xiāng suí**  
 Two kids without doubts, always together day and night  
 
-## 陳小春, 謝天華, 梁漢文
+## Verse 1 (陳小春, 謝天華, 梁漢文)
 
 昏暗灯光 映射在我面庞  
 **Fan1 am3 dang1 gwong1 jing2 se6 zoi6 ngo5 min6 pong4**  
@@ -60,7 +61,7 @@ Every farewell, I down shot after shot of strong liquor
 All for a better reunion next time  
 
 有很多话 来不及讲出口  
-**Jau5 si4 duk6 cyu5 wui4 jik1 hei2 lou5 si4 gwong1** 
+**Jau5 si4 duk6 cyu5 wui4 jik1 hei2 lou5 si4 gwong1**  
 There’s so much I didn’t have time to say  
 
 送上最好祝福 日后见啦老友  
@@ -101,7 +102,7 @@ Now, slowly savoring them, they leave a lingering sweetness in my mind
 
 
 
-## 張智霖
+## Chorus 1 (張智霖)
 
 时光一逝永不回  
 **Shíguāng yī shì yǒng bù huí**  
@@ -119,7 +120,9 @@ Remembering our childhood days, innocent and sweet
 **Liǎng xiǎo wú cāi rì yè xiāng suí**  
 Two kids with no doubts, together day and night  
 
-## GAI
+## Verse 2 
+
+### GAI  
 
 我在想是什么  
 **Wǒ zài xiǎng shì shénme**  
@@ -177,7 +180,7 @@ Keep my heat — stay burning hot
 **Bàba shì wǒmen xīn de tóuxián**  
 “Dad” is our new title now  
 
-## 布瑞吉
+### 布瑞吉
 
 从来没有忘记过去我们怎么闯的  
 **Cónglái méiyǒu wàngjì guòqù wǒmen zěnme chuǎng de**  
@@ -211,7 +214,9 @@ This friendship won’t fade — just like Shuke and Beita
 **Nǐ shì wǒ de chángjiàn, wǒ jiù biànchéng nǐ de kuījiǎ**  
 You are my longsword, and I’ll become your armor  
 
-## 張智霖
+## Chorus 2 
+
+### 張智霖
 
 春风又吹红了花蕊  
 **Chūnfēng yòu chuī hóng le huāruǐ**  
@@ -229,7 +234,7 @@ You’re about to change your heart, like time that can’t rewind
 **Wǒ zhǐyǒu zài mèng lǐ xiāng yīwēi**  
 Only in my dreams can I snuggle close  
 
-## 全部
+### 全部
 
 兄弟你在哪点儿我给你留了灯  
 **Xiōngdì nǐ zài nǎ diǎnr wǒ gěi nǐ liú le dēng**  
@@ -247,7 +252,7 @@ Bro, wherever you are, I’ve left a light on for you
 **Máfan nǐ kuài diǎn diǎn wǒ děng bù dào hāhā**  
 Hurry and tap in — I can’t wait any longer, haha  
 
-## 陳小春, 謝天華, 梁漢文, 布瑞吉
+## Verse 3 (陳小春, 謝天華, 梁漢文, 布瑞吉)
 
 坦言每个过去都是洗礼  
 **Tǎnyán měi gè guòqù dōu shì xǐlǐ**  
@@ -265,7 +270,7 @@ Let’s go back and find our memories
 **Wàng le shíjiān duōjiǔ wǒmen dōu méi jù**  
 Forgot how long it's been since we last gathered  
 
-## 全部
+### 全部
 
 柴米油盐酱醋茶  
 **Chái mǐ yóu yán jiàng cù chá**  
@@ -283,6 +288,8 @@ As we age, we’ve got to hold our own
 **Niánjì zēngzhǎng yàng yào ná**  
 As we age, we’ve got to hold our own  
 
+## Bridge  
+
 甜蜜蜜 你笑的甜蜜蜜  
 **Tiánmìmì, nǐ xiào de tiánmìmì**  
 So sweet — your smile is sweet as honey  
@@ -298,6 +305,8 @@ For a moment, I can’t recall
 啊～在梦里  
 **A~ zài mèng lǐ**  
 Ah… but it’s in a dream  
+
+## Chorus 3 
 
 时光一逝永不回  
 **Shíguāng yī shì yǒng bù huí**  
