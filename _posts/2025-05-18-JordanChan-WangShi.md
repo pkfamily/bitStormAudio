@@ -252,7 +252,9 @@ Bro, wherever you are, I’ve left a light on for you
 **Máfan nǐ kuài diǎn diǎn wǒ děng bù dào hāhā**  
 Hurry and tap in — I can’t wait any longer, haha  
 
-## Verse 3 (陳小春, 謝天華, 梁漢文, 布瑞吉)
+## Verse 3 
+
+### 陳小春, 謝天華, 梁漢文, 布瑞吉  
 
 坦言每个过去都是洗礼  
 **Tǎnyán měi gè guòqù dōu shì xǐlǐ**  
