@@ -21,7 +21,7 @@ g { color: Green }
 
 ### 🔍 Overview
 
-**《跳樓機》** ("Jumping Machine" or "Drop Tower") is a breakout single by Chinese singer-songwriter **LBI (利比; Shi Baichen)**. Released in late 2024 as part of his EP _Jumping Machine_, the song became a viral hit across short-video platforms like Douyin.
+**《跳樓機》** (Tiào lóu jī, "Jumping Machine" or "Drop Tower") is a breakout single by Chinese singer-songwriter **LBI (利比; 施柏宸, Shī Bǎi Chén)**. Released in late 2024 as part of his EP _Jumping Machine_, the song became a viral hit across short-video platforms like Douyin.
 
 ---
 
@@ -70,11 +70,11 @@ g { color: Green }
 ### ✨ Intro Part 1
 
 風走了 只留下一條街的葉落  
-**Fēng zǒu le zhǐ liú xià yì tiáo jiē de yè luò**  
+**Fēng zǒu le, zhǐ liú xià yì tiáo jiē de yè luò**  
 The wind left, leaving only fallen leaves on the street  
 
 你走了 只留下我雙眼的紅  
-**Nǐ zǒu le zhǐ liú xià wǒ shuāng yǎn de hóng**  
+**Nǐ zǒu le, zhǐ liú xià wǒ shuāng yǎn de hóng**  
 You left, leaving only the redness in my eyes  
 
 逼著自己早點睡  
@@ -82,7 +82,7 @@ You left, leaving only the redness in my eyes
 Forcing myself to sleep early  
 
 能不能再做一個 有你的美夢  
-**Néng bù néng zài zuò yí gè yǒu nǐ de měi mèng**  
+**Néng bù néng zài zuò yí gè, yǒu nǐ de měi mèng**  
 Can I have one more sweet dream with you in it?  
 
 ### ✨ Intro Part 2 
@@ -100,7 +100,7 @@ Standing guard at the edge of a distant world
 After seeing your eyes  
 
 才知道孤獨 很難忍受  
-**Cái zhī dào gūdú hěn nán rěn shòu**  
+**Cái zhī dào gūdú, hěn nán rěn shòu**  
 I finally realized how hard loneliness is to endure  
 
 ### 💬 Verse 1
@@ -114,11 +114,11 @@ Is that... laughable?
 I panicked so much while deleting my search history  
 
 他會看見嗎 曾經只有我能看的模樣  
-**Tā huì kànjiàn ma céngjīng zhǐ yǒu wǒ néng kàn de múyàng**  
+**Tā huì kànjiàn ma, céngjīng zhǐ yǒu wǒ néng kàn de múyàng**  
 Will he see what once only I could see?  
 
 從夜深人靜 一直難過到天亮  
-**Cóng yè shēn rén jìng yìzhí nánguò dào tiān liàng**  
+**Cóng yè shēn rén jìng, yìzhí nánguò dào tiān liàng**  
 From deep in the night, I stayed sad until dawn  
 
 你反正不會再擔心  
@@ -134,7 +134,7 @@ My heart throbs faintly in pain
 It’s like meeting me made you yearn for freedom  
 
 怎麼為他失去一切 也無妨  
-**Zěnme wèi tā shīqù yíqiè yě wúfáng**  
+**Zěnme wèi tā shīqù yíqiè, yě wúfáng**  
 Losing everything for him—why does it not matter?  
 
 可能是我賤吧  
@@ -164,7 +164,7 @@ The time when you loved me the most
 ### 🎤 Chorus 1
 
 Baby 我們的感情好像跳樓機  
-**Baby wǒmen de gǎnqíng hǎoxiàng tiàolóujī**  
+**Baby, wǒmen de gǎnqíng hǎoxiàng tiàolóujī**  
 Baby, our relationship is like a drop tower ride  
 
 讓我突然地升空又急速落地  
@@ -200,7 +200,7 @@ It’s just that some friction was left unresolved
 Why do you keep silent?  
 
 是不是我正好 說中你的心  
-**Shì bù shì wǒ zhènghǎo shuō zhòng nǐ de xīn**  
+**Shì bù shì wǒ zhènghǎo, shuō zhòng nǐ de xīn**  
 Did I just happen to speak what’s on your heart?  
 
 就承認還是在意吧  
@@ -252,7 +252,7 @@ The time when you loved me the most
 ### 🎤 Chorus 2
 
 Baby 我們的感情好像跳樓機  
-**Baby wǒmen de gǎnqíng hǎoxiàng tiàolóujī**  
+**Baby, wǒmen de gǎnqíng hǎoxiàng tiàolóujī**  
 Baby, our love feels like a drop tower ride  
 
 讓我突然地升空又急速落地  
@@ -288,7 +288,7 @@ Just some friction we never worked through
 Why do you stay completely silent?  
 
 是不是我正好 說中你的心  
-**Shì bú shì wǒ zhènghǎo shuō zhòng nǐ de xīn**  
+**Shì bú shì wǒ zhènghǎo, shuō zhòng nǐ de xīn**  
 Did I just happen to speak what’s in your heart?  
 
 就承認還是在意吧  
