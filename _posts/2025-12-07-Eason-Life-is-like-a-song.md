@@ -5,7 +5,7 @@ categories: [Lyrics, Cantonese]
 tags: [chinese, pinyin, song lyrics, c-pop, bilingual, eason chan, 陳奕迅]     # TAG names should always be lowercase
 
 image:
-  path: https://images.genius.com/bf9916721c340613e270f8bf2f102caf.705x1000x1.jpg
+  path: https://i.ytimg.com/vi/mYwCv_34LNQ/maxresdefault.jpg
 ---
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/209lkexhDOdjGJMv9iw3rJ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
