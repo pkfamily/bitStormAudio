@@ -16,9 +16,9 @@ o { color: Orange }
 g { color: Green }
 </style>
 
-# 🎵 Song Information: *歲月如歌* — 陳奕迅 (Eason Chan)
+## 🎵 Song Information: *歲月如歌* — 陳奕迅 (Eason Chan)
 
-## Basic Info
+### Basic Info
 
 - **Song Title:** 歲月如歌 (Seoi3 Jyut6 Jyu4 Go1) — *Years Like a Song*  
 - **Artist:** 陳奕迅 (Eason Chan)  
@@ -30,7 +30,7 @@ g { color: Green }
 - **Lyricist:** 林夕 (Lam Jik / Lin Xi)  
 - **Producer:** Alvin Leong
 
-## Background
+### Background
 
 “歲月如歌” is one of Eason Chan’s most iconic ballads and a defining classic in early 2000s Cantopop.  
 The song gained widespread popularity after being featured as the **theme song for the TVB drama《衝上雲霄》(Triumph in the Skies)**, which strengthened its status as a cultural milestone in Hong Kong music.
@@ -42,7 +42,7 @@ It is known for:
 - Themes of reflection, companionship, and the passage of time  
 - A bittersweet yet comforting tone as it contemplates changing relationships
 
-## Themes & Meaning
+### Themes & Meaning
 
 The song expresses:
 
@@ -53,7 +53,7 @@ The song expresses:
 
 Its imagery portrays time as a flowing melody — intangible yet unforgettable.
 
-## Interesting Facts
+### Interesting Facts
 
 - Considered one of Eason Chan’s **signature classics**.  
 - Frequently performed in his concert tours.  
@@ -61,9 +61,9 @@ Its imagery portrays time as a flowing melody — intangible yet unforgettable.
 - Featured widely in media, covers, and live shows.  
 - Associated by many listeners with themes of travel, growth, and emotional transitions, reinforced by its use in *Triumph in the Skies*.
 
-# 📖 Lyrics
+## 📖 Lyrics
 
-## Verse 1
+### Verse 1
 
 愛上了 看見你 如何不懂謙卑  
 **oi3 soeng5 liu5 hon3 gin3 nei5 jyu4 ho4 bat1 dung2 him1 bei1**  
@@ -75,7 +75,7 @@ Speaking the ideals in my heart — it no longer feels tacky.
 
 猶如看得見晨曦 才能歡天喜地  
 **jau4 jyu4 hon3 dak1 gin3 san4 hei1 coi4 nang4 fun1 tin1 hei2 dei6**  
-As if seeing the morning light, only then can I rejoice.
+As if seeing the morning light, only then can I rejoice. <br> <br>
 
 
 抱著你 我每次 回來多少驚喜  
@@ -88,7 +88,7 @@ Perhaps a lifetime is too short to accompany you.
 
 情感有若行李 仍然沉重待我整理  
 **cing4 gam2 jau5 joek6 hang4 lei5 jing4 jin4 cam4 zung6 doi6 ngo5 zing2 lei5**  
-Feelings are like luggage — still heavy, waiting for me to sort through.
+Feelings are like luggage — still heavy, waiting for me to sort through. <br> <br>
 
 
 天氣不似如期 但要走 總要飛  
@@ -109,9 +109,9 @@ I hope you can stay — to leave me with the joyful memories we once shared.
 
 當世事再沒完美 可遠在歲月如歌中找你  
 **dong1 sai3 si6 zoi3 mut6 jyun4 mei5 ho2 jyun5 zoi6 seoi3 jyut6 jyu4 go1 zung1 zaau2 nei5**  
-When the world is no longer perfect, I can still search for you in the melody of passing years.
+When the world is no longer perfect, I can still search for you in the melody of passing years. <br> <br>
 
-## Verse 2
+### Verse 2
 
 再見了 背向你 回頭多少傷悲  
 **zoi3 gin3 liu5 bui3 hoeng3 nei5 wui4 tau4 do1 siu2 soeng1 bei1**  
@@ -123,7 +123,7 @@ Perhaps there’s no need to explain any of it anymore.
 
 何時放鬆我自己 才能花天酒地  
 **ho4 si4 fong3 sung1 ngo5 zi6 gei2 coi4 nang4 faa1 tin1 zau2 dei6**  
-When can I finally relax myself — and indulge in carefree days and nights?
+When can I finally relax myself — and indulge in carefree days and nights? <br> <br>
 
 
 
@@ -137,9 +137,9 @@ Today, the only thing I wish to take with me is still you.
 
 如重溫往日郵寄 但會否疲倦了嬉戲  
 **jyu4 cung4 wan1 wong5 jat6 jau4 gei3 daan6 wui5 fau2 pei4 gyun6 liu5 hei1 hei3**  
-As if revisiting the letters of our past — but have you grown tired of the games we used to play?
+As if revisiting the letters of our past — but have you grown tired of the games we used to play? <br> <br>
 
-## Verse 3
+### Verse 3
 
 天氣不似如期 但要走 總要飛  
 **tin1 hei3 bat1 ci5 jyu4 kei4 daan6 jiu3 zau2 zung2 jiu3 fei1**  
@@ -159,4 +159,4 @@ I hope you can stay — to leave me with the joyful memories we once shared.
 
 當世事再沒完美 可遠在歲月如歌中找你  
 **dong1 sai3 si6 zoi3 mut6 jyun4 mei5 ho2 jyun5 zoi6 seoi3 jyut6 jyu4 go1 zung1 zaau2 nei5**  
-When the world is no longer perfect, I can still search for you in the melody of passing years.
+When the world is no longer perfect, I can still search for you in the melody of passing years. <br> <br>
