@@ -16,7 +16,7 @@ o { color: Orange }
 g { color: Green }
 </style>
 
-## 🎵 Song Information: *歲月如歌* — 陳奕迅 (Eason Chan)
+## 🎵 Song Information
 
 ### Basic Info
 
