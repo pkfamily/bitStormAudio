@@ -1,6 +1,6 @@
 ---
 title: 五月天 (Mayday) - 乾杯 (Cheers) Lyrics
-date: 2025-12-07 08:00:00 -0800
+date: 2025-12-10 08:00:00 -0800
 categories: [Lyrics, Mandarin]
 tags: [chinese, pinyin, song lyrics, c-pop, mandarin]     # TAG names should always be lowercase
 
@@ -44,7 +44,7 @@ Today, “乾杯” remains an enduring cultural anthem across Chinese-speaking 
 
 ## 📖 Lyrics
 
-### Verse 1
+### Verse 1 🎵
 
 會不會 有一天 時間真的能倒退  
 **huì bù huì yǒu yì tiān shíjiān zhēn de néng dàotuì**  
@@ -67,7 +67,7 @@ And I will still raise a glass with you, brewed from our memories
 And drink one more toast with you  
 
 
-### Verse 2
+### Verse 2 🎵
 
 如果說 要我選出 代表青春 那個畫面  
 **rúguǒ shuō yào wǒ xuǎn chū dàibiǎo qīngchūn nà ge huàmiàn**  
@@ -86,7 +86,7 @@ That face of yours crying and laughing, still wanting a hug
 Thinking of it—so cute, so pitiful, so touching—but so nostalgic  
 
 
-### Pre-Chorus
+### Pre-Chorus 🎶
 
 懷念總是 突然懷念 不談條件  
 **huáiniàn zǒng shì túrán huáiniàn bù tán tiáojiàn**  
@@ -105,7 +105,7 @@ You and I sweating, drinking soda by the sports field
 We promised that no matter what, we’d walk together into the future world  
 
 
-### Chorus
+### Chorus ⭐
 
 現在就是 那個未來 那個世界  
 **xiànzài jiù shì nà ge wèilái nà ge shìjiè**  
@@ -124,7 +124,7 @@ Our friendship once felt like Noah’s Ark, a strong oath
 But I stare at the sea waiting for forever, until my vision blurs  
 
 
-### Chorus (Repeat 1)
+### Chorus (Repeat 1) ⭐
 
 會不會 有一天 時間真的能倒退  
 **huì bù huì yǒu yì tiān shíjiān zhēn de néng dàotuì**  
@@ -147,7 +147,7 @@ And I will still raise a glass with you, brewed from our memories
 And drink one more toast with you  
 
 
-### Verse 3
+### Verse 3 🎵
 
 這些年 買了四輪 買了手錶 買了單眼  
 **zhèxiē nián mǎi le sìlún mǎi le shǒubiǎo mǎi le dānyǎn**  
@@ -166,7 +166,7 @@ Life is only accepting fate, trapped in destiny, so we drink away our sorrow
 Left with higher laugh points, lower cry points, but no maturity point  
 
 
-### Pre-Chorus 2
+### Pre-Chorus 2 🎶
 
 成熟就是 幻想幻滅 一場磨鍊  
 **chéngshú jiù shì huànxiǎng huànmiè yì chǎng móliàn**  
@@ -185,7 +185,7 @@ Sometimes I really want to cry, again and again, but have no tears
 I wonder if you will, if he will, hold a reunion someday  
 
 
-### Verse 4
+### Verse 4 🎵
 
 他在等你 你在等我 我在等誰  
 **tā zài děng nǐ nǐ zài děng wǒ wǒ zài děng shéi**  
@@ -204,7 +204,7 @@ The sky keeps turning dark then bright, bright then dark
 Time has shifted like oceans and fields; it flies far away, and I no longer have strength to chase  
 
 
-### Chorus (Repeat 2)
+### Chorus (Repeat 2) ⭐
 
 會不會 有一天 時間真的能倒退  
 **huì bù huì yǒu yì tiān shíjiān zhēn de néng dàotuì**  
@@ -227,10 +227,10 @@ And I will still raise a glass with you, brewed from our memories
 And drink one more toast with you  
 
 
-### Instrumental Break
+### Instrumental Break 🎼
 
 
-### Chorus (Repeat 3)
+### Chorus (Repeat 3) ⭐
 
 會不會 有一天 時間真的能倒退  
 **huì bù huì yǒu yì tiān shíjiān zhēn de néng dàotuì**  
@@ -253,7 +253,7 @@ And I will still raise a glass with you, brewed from our memories
 And drink one more toast with you  
 
 
-### Outro
+### Outro 🌙
 
 終究會 有一天 我們都變成昨天  
 **zhōngjiù huì yǒu yì tiān wǒmen dōu biàn chéng zuótiān**  
@@ -295,8 +295,7 @@ Drink and may we live long
 **suìsuì hé niánnián**  
 Every year and every age  
 
-
-### Final Refrain
+### Final Refrain 🔁
 
 時間都停了 他們都回來了  
 **shíjiān dōu tíng le tāmen dōu huílái le**  
