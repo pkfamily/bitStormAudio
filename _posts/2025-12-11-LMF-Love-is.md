@@ -1,7 +1,7 @@
 ---
 title: LMF feat. 鄭秀文 (Sammi Cheng) - 愛是 (Love is...) Lyrics
 date: 2025-12-11 08:00:00 -0800
-categories: [Lyrics, Mandarin]
+categories: [Lyrics, Cantonese]
 tags: [chinese, pinyin, song lyrics, c-pop, cantonese,c-rap]     # TAG names should always be lowercase
 
 image:
@@ -211,3 +211,51 @@ Dancing in loneliness, forgetting exclamation marks — can you feel it?
 放棄的愛任意去傾倒 莫問愛是糊塗  
 **fong3 hei3 dik1 oi3 jam6 ji3 heoi3 king1 dou2 mok6 man6 oi3 si6 wu4 tou4**  
 Let abandoned love pour freely — don’t ask if love is foolish  
+
+### Outro / Final Chorus
+
+每一章每一節要愛  
+**mui5 jat1 zoeng1 mui5 jat1 zit3 jiu3 oi3**  
+Every chapter, every verse must be about love  
+
+每一分每一鐘去愛  
+**mui5 jat1 fan1 mui5 jat1 zung1 heoi3 oi3**  
+Every minute, every second is spent loving  
+
+幾多不經思考既愛 這針偏跌進海  
+**gei2 do1 bat1 ging1 si1 haau2 ge3 oi3 ze3 zam1 pin1 dit3 zeon3 hoi2**  
+So much unthinking love — like a needle falling into the sea  
+
+---
+
+每一章每一節要愛  
+**mui5 jat1 zoeng1 mui5 jat1 zit3 jiu3 oi3**  
+Every chapter, every verse must be about love  
+
+每一分每一鐘去愛  
+**mui5 jat1 fan1 mui5 jat1 zung1 heoi3 oi3**  
+Every minute, every second is spent loving  
+
+幾多不經思考既愛 找得到卻放開  
+**gei2 do1 bat1 ging1 si1 haau2 ge3 oi3 zaau2 dak1 dou3 koek3 fong3 hoi1**  
+So much unthinking love — found at last, yet still let go  
+
+---
+
+### Chorus (Final Repeat)
+
+命運從未預告 迷糊的國度 想得到  
+**ming6 wan6 cung4 mei6 jyu6 gou3 mai4 wu4 dik1 gwok3 dou6 soeng2 dak1 dou3**  
+Fate never gives warnings — in a blurred land, you seek answers  
+
+染血的愛又那可修補 過往傷心太早  
+**jim5 hyut3 dik1 oi3 jau6 naa5 ho2 sau1 bou2 gwo3 wong5 soeng1 sam1 taai3 zou2**  
+A bloodstained love — how can it be mended? Past heartbreak came too early  
+
+寂寞時候跳舞 遺忘感嘆號 可感到  
+**zik6 mok6 si4 hau6 tiu3 mou5 wai4 mong4 gam2 taan3 hou6 ho2 gam2 dou3**  
+Dancing in loneliness, forgetting exclamation marks — can you feel it?  
+
+放棄的愛任意去傾倒 莫問愛是糊塗  
+**fong3 hei3 dik1 oi3 jam6 ji3 heoi3 king1 dou2 mok6 man6 oi3 si6 wu4 tou4**  
+Let abandoned love pour freely — do not ask whether love is foolish  
