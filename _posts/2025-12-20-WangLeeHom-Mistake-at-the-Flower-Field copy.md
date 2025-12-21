@@ -50,8 +50,8 @@ Over time, 《花田错》 has become a reference point for Mandarin pop songs t
 
 **Oh, whoo**   
 
-Yeah, come baby 我犯了錯  
-**yeah come baby wǒ fàn le cuò**  
+Yeah, come on baby 我犯了錯  
+**yeah, come on baby wǒ fàn le cuò**  
 Yeah, come baby, I made a mistake  
 
 花田裡犯了錯  
@@ -112,6 +112,11 @@ Making mistakes like obsessing over illusory reflections—so meaningless
 **huā tián lǐ fàn le cuò qǐng yuánliàng wǒ duōqíng de dǎrǎo**  
 I made a mistake in the flower field—please forgive my sentimental intrusion  
 
+### Interlude
+
+**Listen to my heartbeat**  
+
+**Check this out**  
 
 ### Verse 2 🎵
 
