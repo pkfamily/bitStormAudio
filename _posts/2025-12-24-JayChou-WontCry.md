@@ -15,22 +15,41 @@ o { color: Orange }
 g { color: Green }
 </style>
 
+
 ## 🎵 Song Summary
 
-**Title:** 說好不哭 (Won’t Cry)   
-**Language:** Mandarin  
+**Title:** 說好不哭 (Won’t Cry) 🎵  
+**Artist:** 周杰倫 Jay Chou 🎤  
+**Album:** Single 💿
+**Release Year:** 2019 📅
+**Songwriters:** 周杰倫 (music), others ✍️
+**Genre:** Mandopop / C-pop 🎵
 
-*“Won’t Cry”* is a deeply restrained breakup ballad that explores love expressed through silence, endurance, and emotional self-denial. Rather than dramatizing heartbreak with confrontation or blame, the song focuses on what remains unsaid after a relationship ends. The narrator no longer has direct contact with his former partner and must learn about her life indirectly through others, highlighting a sense of distance that is both emotional and social. This detachment intensifies his loneliness, as he avoids crowds and questions, choosing isolation to protect himself from reopening wounds.
+### Overview ✨
 
-A central emotional tension in the song lies in the imbalance of sacrifice. Even after the separation, the woman continues to shield the narrator from judgment, quietly taking responsibility so that others will not think poorly of him. Her actions reveal a selfless form of love—one that persists even when the relationship itself has ended. The narrator, aware of her pain, is unable to stop her or ask her to stay, embodying regret not through words but through inaction.
+*“Won’t Cry”* is a restrained breakup ballad about love expressed through silence and endurance. The narrator learns about his former partner indirectly through others, creating emotional distance and private suffering rather than public confrontation.
 
-The chorus reinforces the song’s core theme: dignity in letting go. The promise “not to cry” is not a denial of sadness, but an agreement to endure it privately. Tears are replaced with forced smiles, explanations, and emotional restraint. In the bridge, the song reaches its most poignant moment: despite having “nothing left,” she still encourages his dreams. This final image reframes the breakup not as a failure of love, but as its quiet continuation—love that survives through support, distance, and the painful grace of release.
+### Composition 🎼
+
+Musically the track favors sparse instrumentation and a restrained vocal delivery, emphasizing intimacy and emotional restraint over dramatic production.
+
+### Release & Album Context 📀
+
+Released as a single, the song fits Jay Chou’s catalogue of cinematic, bittersweet ballads and continued his tradition of blending modern pop with delicate orchestration.
+
+### Popularity & Reception 🌟
+
+The single saw wide streaming attention and praise for its understated emotional power and Jay Chou’s melodic writing.
+
+### Legacy 🕊️
+
+Recognized as a poignant entry in Jay Chou’s ballad repertoire, the song is often cited for its quiet, enduring portrayal of love and parting.
 
 
 ---
 ## 📖 Lyrics
 
-### Verse 1
+### Verse 1 🎵
 
 沒有了聯絡  
 **Méi yǒu le lián luò**  
@@ -50,7 +69,7 @@ I’m the one who can’t let go.
 
 ---
 
-### Verse 2
+### Verse 2 🎵
 
 人多的時候 就待在角落  
 **Rén duō de shí hou jiù dài zài jiǎo luò**  
@@ -74,7 +93,7 @@ You protect me and don’t even complain.
 
 ---
 
-### Verse 3
+### Verse 3 🎵
 
 電話開始躲  
 **Diàn huà kāi shǐ duǒ**  
@@ -98,7 +117,7 @@ You were afraid to trouble me, who wanted freedom.
 
 ---
 
-### Pre-Chorus
+### Pre-Chorus 🔔
 
 都這個時候 妳還在意著  
 **Dōu zhè ge shí hou nǐ hái zài yì zhe**  
@@ -118,7 +137,7 @@ And that you were the one who wanted to leave.
 
 ---
 
-### Chorus
+### Chorus ⭐
 
 眼看著妳難過  
 **Yǎn kàn zhe nǐ nán guò**  
@@ -138,7 +157,7 @@ You had said not to cry as you let me go.
 
 ---
 
-### Verse 3
+### Verse 3 🎵
 
 電話開始躲  
 **Diàn huà kāi shǐ duǒ**  
@@ -162,7 +181,7 @@ You were afraid to trouble me, who wanted freedom.
 
 ---
 
-### Pre-Chorus
+### Pre-Chorus 🔔
 
 都這個時候 妳還在意著  
 **Dōu zhè ge shí hou nǐ hái zài yì zhe**  
@@ -182,7 +201,7 @@ And that you were the one who wanted to leave.
 
 ---
 
-### Chorus
+### Chorus ⭐
 
 眼看著妳難過  
 **Yǎn kàn zhe nǐ nán guò**  
@@ -202,7 +221,7 @@ You had said not to cry as you let me go.
 
 ---
 
-### Bridge / Outro
+### Bridge / Outro 🌉
 
 你什麼都沒有  
 **Nǐ shén me dōu méi yǒu**  
