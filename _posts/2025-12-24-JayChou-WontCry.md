@@ -232,7 +232,7 @@ You had nothing,
 Yet you still supported my dreams.  
 
 心疼過了多久  
-**Xīn téng guò le duō jiǔ (guò le duō jiǔ*)**  
+**Xīn téng guò le duō jiǔ (guò le duō jiǔ)**  
 After your heart has ached for such a long time,  
 
 還在找理由等我  

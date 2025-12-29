@@ -73,9 +73,9 @@ g { color: Green }
 Summary section (Song Summary)
 
 - Header: `## 🎵 Song Summary`
-- Metadata lines; each line must end with a single emoji. Example lines:
-  - `**Title:** {Chinese} ({English}) 🎵`
-  - `**Artist:** {Chinese} {English} 🎤`
+- Metadata lines; each line must end with a single emoji. Include pinyin (for Mandarin) or jyutping (for Cantonese) in parentheses. Example lines:
+  - `**Title:** {Chinese} ({Romanization} / {English}) 🎵`
+  - `**Artist:** {Chinese} ({Romanization} / {English}) 🎤`
   - `**Album:** {Album Name} 💿`
   - `**Release Year:** {YYYY} 📅`
   - `**Songwriters:** {names} ✍️`

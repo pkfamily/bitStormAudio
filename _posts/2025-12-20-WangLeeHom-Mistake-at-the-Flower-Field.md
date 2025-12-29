@@ -18,7 +18,7 @@ g { color: Green }
 
 ## Song Summary
 
-**Title:** 花田错 (Mistake in the Flower Field) 🌸  
+**Title:** 花田错 (Mistake in the Flower Field, huā tián cuò) 🌸  
 **Artist:** 王力宏 Leehom Wang 🎤  
 **Album:** 心中的日月 (*Shangri-La*) 💿  
 **Release Year:** 2004 📅  
