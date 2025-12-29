@@ -44,7 +44,84 @@ Today, “乾杯” remains an enduring cultural anthem across Chinese-speaking 
 
 ## 📖 Lyrics
 
+### Chorus ⭐
+
+會不會 有一天 時間真的能倒退  
+**huì bù huì yǒu yì tiān shíjiān zhēn de néng dàotuì**  
+Will there be a day when time truly can reverse?  
+
+退回 你的我的 回不去的 悠悠的歲月  
+**tuì huí nǐ de wǒ de huí bú qù de yōuyōu de suìyuè**  
+Returning to our long-gone, unreachable years  
+
+也許會 有一天 世界真的有終點  
+**yěxǔ huì yǒu yì tiān shìjiè zhēn de yǒu zhōngdiǎn**  
+Maybe one day the world truly will have an end  
+
+也要和你舉起回憶釀的甜  
+**yě yào hé nǐ jǔ qǐ huíyì niàng de tián**  
+And I will still raise a glass with you, brewed from our memories  
+
+和你再乾一杯  
+**hé nǐ zài gān yì bēi**  
+And drink one more toast with you  
+
+
 ### Verse 1 🎵
+
+如果說 要我選出 代表青春 那個畫面  
+**rúguǒ shuō yào wǒ xuǎn chū dàibiǎo qīngchūn nà ge huàmiàn**  
+If you asked me to choose one scene to represent our youth  
+
+浮現了 那滴眼淚 那片藍天 那年畢業  
+**fúxiàn le nà dī yǎnlèi nà piàn lántiān nà nián bìyè**  
+It would be that tear, that blue sky, that graduation year  
+
+那一張 邊哭邊笑 還要擁抱 是你的臉  
+**nà yì zhāng biān kū biān xiào hái yào yǒngbào shì nǐ de liǎn**  
+That face of yours crying and laughing, still wanting a hug  
+
+想起來 可愛可憐 可歌可泣 可是多懷念  
+**xiǎng qǐlái kě'ài kělián kěgē kěqì kěshì duō huáiniàn**  
+Thinking of it—so cute, so pitiful, so touching—but so nostalgic  
+
+懷念總是 突然懷念 不談條件  
+**huáiniàn zǒng shì túrán huáiniàn bù tán tiáojiàn**  
+Nostalgia always hits suddenly, without conditions  
+
+當回憶 衝破考卷 衝出歲月 在我眼前  
+**dāng huíyì chōngpò kǎojuàn chōng chū suìyuè zài wǒ yǎnqián**  
+When memories burst through test papers, through the years, before my eyes  
+
+我和你 留著汗水 喝著汽水 在操場邊  
+**wǒ hé nǐ liú zhe hànshuǐ hē zhe qìshuǐ zài cāochǎng biān**  
+You and I sweating, drinking soda by the sports field  
+
+說好了 無論如何 一起走到 未來的世界  
+**shuō hǎo le wúlùn rúhé yìqǐ zǒu dào wèilái de shìjiè**  
+We promised that no matter what, we’d walk together into the future world  
+
+
+### Pre-Chorus 🎶
+
+現在就是 那個未來 那個世界  
+**xiànzài jiù shì nà ge wèilái nà ge shìjiè**  
+Now is that future, that world  
+
+為什麼 你的身邊 我的身邊 不是同一邊  
+**wèishénme nǐ de shēnbiān wǒ de shēnbiān bú shì tóng yì biān**  
+Why is it that by your side and by my side are not the same side?  
+
+友情曾像 諾亞方舟 堅強誓言  
+**yǒuqíng céng xiàng Nuòyǎ Fāngzhōu jiānqiáng shìyán**  
+Our friendship once felt like Noah’s Ark, a strong oath  
+
+只是我 望著海面 等著永遠 模糊了視線  
+**zhǐshì wǒ wàng zhe hǎimiàn děng zhe yǒngyuǎn móhú le shìxiàn**  
+But I stare at the sea waiting for forever, until my vision blurs  
+
+
+### Chorus ⭐
 
 會不會 有一天 時間真的能倒退  
 **huì bù huì yǒu yì tiān shíjiān zhēn de néng dàotuì**  
@@ -69,86 +146,6 @@ And drink one more toast with you
 
 ### Verse 2 🎵
 
-如果說 要我選出 代表青春 那個畫面  
-**rúguǒ shuō yào wǒ xuǎn chū dàibiǎo qīngchūn nà ge huàmiàn**  
-If you asked me to choose one scene to represent our youth  
-
-浮現了 那滴眼淚 那片藍天 那年畢業  
-**fúxiàn le nà dī yǎnlèi nà piàn lántiān nà nián bìyè**  
-It would be that tear, that blue sky, that graduation year  
-
-那一張 邊哭邊笑 還要擁抱 是你的臉  
-**nà yì zhāng biān kū biān xiào hái yào yǒngbào shì nǐ de liǎn**  
-That face of yours crying and laughing, still wanting a hug  
-
-想起來 可愛可憐 可歌可泣 可是多懷念  
-**xiǎng qǐlái kě'ài kělián kěgē kěqì kěshì duō huáiniàn**  
-Thinking of it—so cute, so pitiful, so touching—but so nostalgic  
-
-
-### Pre-Chorus 🎶
-
-懷念總是 突然懷念 不談條件  
-**huáiniàn zǒng shì túrán huáiniàn bù tán tiáojiàn**  
-Nostalgia always hits suddenly, without conditions  
-
-當回憶 衝破考卷 衝出歲月 在我眼前  
-**dāng huíyì chōngpò kǎojuàn chōng chū suìyuè zài wǒ yǎnqián**  
-When memories burst through test papers, through the years, before my eyes  
-
-我和你 留著汗水 喝著汽水 在操場邊  
-**wǒ hé nǐ liú zhe hànshuǐ hē zhe qìshuǐ zài cāochǎng biān**  
-You and I sweating, drinking soda by the sports field  
-
-說好了 無論如何 一起走到 未來的世界  
-**shuō hǎo le wúlùn rúhé yìqǐ zǒu dào wèilái de shìjiè**  
-We promised that no matter what, we’d walk together into the future world  
-
-
-### Chorus ⭐
-
-現在就是 那個未來 那個世界  
-**xiànzài jiù shì nà ge wèilái nà ge shìjiè**  
-Now is that future, that world  
-
-為什麼 你的身邊 我的身邊 不是同一邊  
-**wèishénme nǐ de shēnbiān wǒ de shēnbiān bú shì tóng yì biān**  
-Why is it that by your side and by my side are not the same side?  
-
-友情曾像 諾亞方舟 堅強誓言  
-**yǒuqíng céng xiàng Nuòyǎ Fāngzhōu jiānqiáng shìyán**  
-Our friendship once felt like Noah’s Ark, a strong oath  
-
-只是我 望著海面 等著永遠 模糊了視線  
-**zhǐshì wǒ wàng zhe hǎimiàn děng zhe yǒngyuǎn móhú le shìxiàn**  
-But I stare at the sea waiting for forever, until my vision blurs  
-
-
-### Chorus (Repeat 1) ⭐
-
-會不會 有一天 時間真的能倒退  
-**huì bù huì yǒu yì tiān shíjiān zhēn de néng dàotuì**  
-Will there be a day when time truly can reverse?  
-
-退回 你的我的 回不去的 悠悠的歲月  
-**tuì huí nǐ de wǒ de huí bú qù de yōuyōu de suìyuè**  
-Returning to our long-gone, unreachable years  
-
-也許會 有一天 世界真的有終點  
-**yěxǔ huì yǒu yì tiān shìjiè zhēn de yǒu zhōngdiǎn**  
-Maybe one day the world truly will have an end  
-
-也要和你舉起回憶釀的甜  
-**yě yào hé nǐ jǔ qǐ huíyì niàng de tián**  
-And I will still raise a glass with you, brewed from our memories  
-
-和你再乾一杯  
-**hé nǐ zài gān yì bēi**  
-And drink one more toast with you  
-
-
-### Verse 3 🎵
-
 這些年 買了四輪 買了手錶 買了單眼  
 **zhèxiē nián mǎi le sìlún mǎi le shǒubiǎo mǎi le dānyǎn**  
 These years, I’ve bought a car, a watch, a DSLR  
@@ -164,9 +161,6 @@ Life is only accepting fate, trapped in destiny, so we drink away our sorrow
 只剩下 高的笑點 低的哭點 卻沒成熟點  
 **zhǐ shèng xià gāo de xiàodiǎn dī de kūdiǎn què méi chéngshú diǎn**  
 Left with higher laugh points, lower cry points, but no maturity point  
-
-
-### Pre-Chorus 2 🎶
 
 成熟就是 幻想幻滅 一場磨鍊  
 **chéngshú jiù shì huànxiǎng huànmiè yì chǎng móliàn**  
@@ -185,7 +179,7 @@ Sometimes I really want to cry, again and again, but have no tears
 I wonder if you will, if he will, hold a reunion someday  
 
 
-### Verse 4 🎵
+### Pre-Chorus 🎶
 
 他在等你 你在等我 我在等誰  
 **tā zài děng nǐ nǐ zài děng wǒ wǒ zài děng shéi**  
@@ -204,7 +198,7 @@ The sky keeps turning dark then bright, bright then dark
 Time has shifted like oceans and fields; it flies far away, and I no longer have strength to chase  
 
 
-### Chorus (Repeat 2) ⭐
+### Chorus ⭐
 
 會不會 有一天 時間真的能倒退  
 **huì bù huì yǒu yì tiān shíjiān zhēn de néng dàotuì**  
@@ -230,7 +224,7 @@ And drink one more toast with you
 ### Instrumental Break 🎼
 
 
-### Chorus (Repeat 3) ⭐
+### Chorus ⭐
 
 會不會 有一天 時間真的能倒退  
 **huì bù huì yǒu yì tiān shíjiān zhēn de néng dàotuì**  
@@ -251,7 +245,6 @@ And I will still raise a glass with you, brewed from our memories
 和你再乾一杯  
 **hé nǐ zài gān yì bēi**  
 And drink one more toast with you  
-
 
 ### Outro 🌙
 
