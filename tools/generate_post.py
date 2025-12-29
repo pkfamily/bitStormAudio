@@ -80,26 +80,33 @@ def build_spotify_iframe(spotify_url: str) -> str:
 
 def build_summary(args) -> str:
     # Minimal summary block following site style
-    lines = []
-    lines.append("## 🎵 Song Summary\n")
-    lines.append(f"**Title:** {args.title_ch} ({args.title_en}) 🎵")
-    lines.append(f"**Artist:** {args.artist_ch} {args.artist_en} 🎤")
-    lines.append(f"**Album:** {args.album or 'Single / Album (original release)'} 💿")
-    lines.append(f"**Release Year:** {args.release_year} 📅")
-    lines.append(f"**Songwriters:** {args.songwriters or '(credited songwriters)'} ✍️")
-    lines.append(f"**Genre:** {args.genre or ('Cantopop' if args.language.lower().startswith('c') else 'C-pop')} 🎶\n")
+    # Metadata lines should end with two spaces to force a Markdown hard line break
+    metadata = []
+    metadata.append(f"**Title:** {args.title_ch} ({args.title_en}) 🎵")
+    metadata.append(f"**Artist:** {args.artist_ch} {args.artist_en} 🎤")
+    metadata.append(f"**Album:** {args.album or 'Single / Album (original release)'} 💿")
+    metadata.append(f"**Release Year:** {args.release_year} 📅")
+    metadata.append(f"**Songwriters:** {args.songwriters or '(credited songwriters)'} ✍️")
+    metadata.append(f"**Genre:** {args.genre or ('Cantopop' if args.language.lower().startswith('c') else 'C-pop')} 🎶")
 
-    lines.append("### Overview ✨\n")
-    lines.append(args.overview or "Put an English overview of the song here.\n")
-    lines.append("### Composition 🎼\n")
-    lines.append(args.composition or "Put a short composition note here.\n")
-    lines.append("### Release & Album Context 📀\n")
-    lines.append(args.release_context or "Release context notes here.\n")
-    lines.append("### Popularity & Reception 🌟\n")
-    lines.append(args.reception or "Reception notes here.\n")
-    lines.append("### Legacy 🕊️\n")
-    lines.append(args.legacy or "Legacy notes here.\n")
-    return "\n".join(lines) + "\n"
+    # append two trailing spaces to metadata lines to create hard line breaks when rendered
+    metadata = [m + "  " for m in metadata]
+
+    # subsections and their paragraphs (each subsection starts on its own line)
+    subsections = []
+    subsections.append("### Overview ✨")
+    subsections.append(args.overview or "Put an English overview of the song here.")
+    subsections.append("### Composition 🎼")
+    subsections.append(args.composition or "Put a short composition note here.")
+    subsections.append("### Release & Album Context 📀")
+    subsections.append(args.release_context or "Release context notes here.")
+    subsections.append("### Popularity & Reception 🌟")
+    subsections.append(args.reception or "Reception notes here.")
+    subsections.append("### Legacy 🕊️")
+    subsections.append(args.legacy or "Legacy notes here.")
+
+    # Join metadata with single newlines (they contain trailing two spaces), then put a blank line before subsections
+    return "\n".join(["## 🎵 Song Summary"] + metadata) + "\n\n" + "\n".join(subsections) + "\n\n"
 
 
 def build_style_block():

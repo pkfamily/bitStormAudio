@@ -26,12 +26,12 @@ g { color: Green }
 
 ## 🎵 Song Summary
 
-**Title:** 紅日 (Red Sun) 🎵
-**Artist:** 李克勤 Hacken Lee 🎤
-**Album:** Single / Album (original release) 💿
-**Release Year:** 1992 📅
-**Songwriters:** (credited songwriters) ✍️
-**Genre:** Cantopop 🎶
+**Title:** 紅日 (Red Sun) 🎵  
+**Artist:** 李克勤 Hacken Lee 🎤  
+**Album:** Single / Album (original release) 💿  
+**Release Year:** 1992 📅  
+**Songwriters:** (credited songwriters) ✍️  
+**Genre:** Cantopop 🎶  
 
 ### Overview ✨
 
