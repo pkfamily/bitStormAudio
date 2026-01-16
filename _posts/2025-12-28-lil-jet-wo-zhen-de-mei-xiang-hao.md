@@ -1,5 +1,5 @@
 ---
-title: "Lil Jet Lil Jet - 我真的没想好 (I really didn't think about it) Lyrics"
+title: "Lil Jet - 我真的没想好 (I really didn't think about it) Lyrics"
 date: 2025-12-28 15:47:08 -0800
 categories:
   - Lyrics
