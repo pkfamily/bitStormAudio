@@ -38,7 +38,7 @@ The song's narrative revolves around how certain words become symbolic of love's
 JJ Lin's interpretation brings his characteristic elegance and sophistication to the track. His vocal delivery navigates between restraint and emotional openness, allowing the lyrics' subtlety to shine through. The production choices emphasize clarity and emotional authenticity, making the song feel both contemporary and timeless—a reflection of JJ Lin's artistic maturity as a performer and composer.
 
 ### Release & Context 📀
-Released in 2022, "關鍵詞" represents a continuation of JJ Lin's artistic evolution, showcasing his ability to create songs that blend commercial appeal with artistic depth. The track further solidifies his status as one of Mandarin pop's most consistent and innovative artists, capable of crafting songs that speak to both emotional universality and refined musical sensibility.
+Released in 2015, "關鍵詞" represents a continuation of JJ Lin's artistic evolution, showcasing his ability to create songs that blend commercial appeal with artistic depth. The track further solidifies his status as one of Mandarin pop's most consistent and innovative artists, capable of crafting songs that speak to both emotional universality and refined musical sensibility.
 
 ### Popularity & Reception 🌟
 - Showcases JJ Lin's talent for writing introspective pop ballads  
@@ -67,6 +67,8 @@ Then someone else will love you
 **Zhè lè guān de shuō cí**  
 This is an optimistic saying  
 
+---
+
 幸福的樣子  
 **Xìng fú de yàng zi**  
 The appearance of happiness  
@@ -78,6 +80,8 @@ I feel that it's so real
 找不到形容詞  
 **Zhǎo bu dào xíng róng cí**  
 I can't find the adjective  
+
+---
 
 沉默在掩飾  
 **Chén mò zài yǎn shì**  
@@ -144,6 +148,8 @@ The best way to love
 是動詞或名詞  
 **Shì dòng cí huò míng cí**  
 Is a verb or a noun  
+
+---
 
 很想告訴你  
 **Hěn xiǎng gào su nǐ**  

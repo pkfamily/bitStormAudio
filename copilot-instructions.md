@@ -73,70 +73,64 @@ g { color: Green }
 Summary section (Song Summary)
 
 - Header: `## 🎵 Song Summary`
-- Metadata lines; each line must end with a single emoji. Include pinyin (for Mandarin) or jyutping (for Cantonese) in parentheses. Example lines:
+- Metadata lines; each line must end with a single emoji. Example lines:
   - `**Title:** {Chinese} ({Romanization} / {English}) 🎵`
-  - `**Artist:** {Chinese} ({Romanization} / {English}) 🎤`
+  - `**Artist:** {Chinese} {English} 🎤`
   - `**Album:** {Album Name} 💿`
   - `**Release Year:** {YYYY} 📅`
   - `**Songwriters:** {names} ✍️`
   - `**Genre:** {genre} 🎶`
-- Follow with subsections and emojis: `Overview ✨`, `Composition 🎼`, `Release & Album Context 📀`, `Popularity & Reception 🌟`, `Legacy 🕊️`.
-- Metadata lines; each line must end with a single emoji. Example lines:
-- `**Title:** {Chinese} ({English}) 🎵`
-- `**Artist:** {Chinese} {English} 🎤`
-- `**Album:** {Album Name} 💿`
-- `**Release Year:** {YYYY} 📅`
-- `**Songwriters:** {names} ✍️`
-- `**Genre:** {genre} 🎶`
-- Follow with subsections and emojis: `Overview ✨`, `Composition 🎼`, `Release & Album Context 📀`, `Popularity & Reception 🌟`, `Legacy 🕊️`.
-- Layout spacing: insert a single blank line between each metadata line and between subsections and their paragraphs (i.e., separate each item with one empty line for readability). Ensure generated Summary includes these blank lines.
-- Metadata lines; each line must end with a single emoji. Example lines:
-- `**Title:** {Chinese} ({English}) 🎵`
-- `**Artist:** {Chinese} {English} 🎤`
-- `**Album:** {Album Name} 💿`
-- `**Release Year:** {YYYY} 📅`
-- `**Songwriters:** {names} ✍️`
-- `**Genre:** {genre} 🎶`
-- Follow with subsections and emojis: `Overview ✨`, `Composition 🎼`, `Release & Album Context 📀`, `Popularity & Reception 🌟`, `Legacy 🕊️`.
-- Layout spacing: each metadata item must start on its own line; do not insert blank (empty) lines between metadata items. To ensure each item renders on its own line without inserting an empty paragraph, end each metadata line with two spaces (Markdown hard line break). Generated summaries should place each metadata line on a separate line and include two trailing spaces at the end of each metadata line.
+- Layout spacing: insert a single blank line between each metadata line.
+- Follow with subsections in this exact order:
+  - `### Overview ✨` - Introduce the song's cultural context, artist background, and general artistic approach
+  - `### Composition 🎼` - Describe musical elements, instrumentation, production style, and melodic characteristics
+  - `### Song Content 📝` - Analyze lyrical themes, narrative structure, and emotional journey (see detailed requirements below)
+  - `### Artistic Approach 🎨` - Discuss vocal delivery, performance style, and artistic interpretation
+  - `### Release & Context 📀` - Provide album/single context, release information, and historical placement
+  - `### Popularity & Reception 🌟` - Summarize commercial performance, critical reception, and cultural impact
+  - `### Legacy 🕊️` - Assess long-term influence and lasting significance
 - Keep the summary in English, neutral and encyclopedic in tone.
 
-Song Content subsection (within Song Summary)
+Song Content subsection requirements (within Song Summary)
 
-- Insert a `### Song Content 📝` subsection after Overview and before Composition.
+- The `### Song Content 📝` subsection appears after Composition and before Artistic Approach.
 - Analyze the song's themes, narrative arc, and emotional journey directly from the lyrics.
-- For songs with significant lyrical density (40+ unique lines), include a **Format & Delivery** paragraph that:
-  - Identifies the likely genre/delivery style (rap/hip-hop, ballad, upbeat pop) based on lyrical structure and density
-  - Comments on rapid-fire lines, conversational language, internal monologues, or other stylistic markers
-  - Explains how the chosen format suits the thematic content
-- Follow with a **Narrative Structure** paragraph that:
-  - Outlines the song's main themes and how they evolve through verses, chorus, and bridge
-  - Traces the protagonist's emotional or philosophical journey
-  - Notes key turning points or shifts in perspective
-- Conclude with observations on resolution, message, or philosophical takeaway.
+- Focus on:
+  - Main lyrical themes and symbolic imagery used
+  - How the narrative unfolds through verses, chorus, and bridge
+  - Emotional journey and character development (if applicable)
+  - Cultural references, metaphors, and poetic devices
+  - Key turning points or shifts in perspective
+  - Overall message or philosophical takeaway
 - Maintain analytical, encyclopedic tone; do not use first-person voice or casual commentary.
 
 Lyrics section
 
 - Header: `## 📖 Lyrics`
-- Section headers must include a single emoji, e.g., `Verse 🎵`, `Pre-Chorus 🔔`, `Chorus ⭐`, `Bridge 🌉`, `Outro 🌙`.
-- For Chinese lyrics, format each stanza as:
+- Section headers must include a single emoji and optional English translation, e.g., `### [主歌] / Verse 1 🎵`, `### [副歌] / Chorus ⭐`, `### [過渡] / Bridge 🌉`, `### [尾聲] / Outro 🎼`.
+- **CRITICAL:** For Chinese lyrics, EVERY line must include all three components:
+  1. Chinese text
+  2. Romanization (pinyin for Mandarin, jyutping for Cantonese) - in bold with `**`
+  3. English translation
 
-Chinese line (two trailing spaces)
-**pinyin/jyutping** (two trailing spaces)
-English translation (two trailing spaces)
+- Format example for each lyric line:
 
-**Important:** Each line in the lyrics section must end with exactly two spaces before the newline. This is Markdown syntax for a hard line break and ensures proper rendering. Apply this to all Chinese lines, romanization lines, and English translations.
+```
+湘女多情 暮色已落地  
+**Xiāng nǚ duō qíng mù sè yǐ luò dì**  
+The Hunan girl is sentimental, dusk has already fallen  
+```
 
-- Use tone-mark pinyin for Mandarin and numeric jyutping for Cantonese.
-- Bold romanization lines.
-- Preserve original punctuation.
-- For English-only lines inside lyrics, render the English line bold by itself.
-- Instrumental sections: include only the section header and no body lines.
-
-Auto-translation option
-
-- If the user requests auto-generated English translations, produce a clear, line-by-line English translation directly under each romanization line. Preserve the original line breaks and punctuation; do not add commentary. When translating, prioritize literal meaning while keeping natural English phrasing.
+**Important formatting rules:**
+- Each line must end with exactly two spaces before the newline (Markdown hard line break)
+- Apply this to all Chinese lines, romanization lines, and English translations
+- Use tone-mark pinyin for Mandarin and numeric jyutping for Cantonese
+- Bold romanization lines using `**romanization**`
+- Preserve original punctuation in Chinese text
+- English translations should be natural and idiomatic while staying faithful to the original meaning
+- For English-only lines inside lyrics, render the English line bold by itself
+- Instrumental sections: include only the section header with no body lines
+- Separate stanzas with `---` horizontal rules
 
 Styling & emoji rules
 
@@ -186,7 +180,9 @@ Checklist before committing a generated post
 - [ ] Spotify iframe present if a Spotify link is given
 - [ ] `style` helper block present
 - [ ] Summary metadata lines include emojis and are English
-- [ ] All lyric sections use the two-space rule and bold romanization lines
+- [ ] All seven subsections present in Song Summary: Overview, Composition, Song Content, Artistic Approach, Release & Context, Popularity & Reception, Legacy
+- [ ] EVERY lyric line includes: Chinese text + romanization (bold) + English translation
+- [ ] All lyric lines use the two-space line break rule
 - [ ] Filename follows `YYYY-MM-DD-Artist-Title.md` and is in `_posts/`
 
 Notes for Copilot usage
