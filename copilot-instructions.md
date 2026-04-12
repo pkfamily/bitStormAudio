@@ -9,12 +9,15 @@ Key goals
 - Produce valid Jekyll Markdown posts compatible with the Chirpy theme.
 - Ensure consistent YAML front matter, emoji usage, lyric formatting, and tagging.
 - Preserve editorial style used in existing posts (example: `/_posts/2025-12-20-WangLeeHom-Mistake-at-the-Flower-Field.md`).
+- Support both Chinese-language lyric posts and English-language lyric posts without breaking existing category or tag archives.
 
 Required front matter (YAML)
 
 - Use the exact structure below; replace placeholders accordingly.
 
 ---
+
+For Chinese-language posts:
 
 title: "{Artist (Chinese)} {Artist (English)} - {Song Title (Chinese)} ({English Translation}) Lyrics"
 date: YYYY-MM-DD HH:MM:SS -0800
@@ -35,6 +38,20 @@ categories:
 
 ---
 
+For English-language posts:
+
+---
+
+title: "{Artist} - {Song Title} Lyrics"
+date: YYYY-MM-DD HH:MM:SS -0800
+categories: [Lyrics, English]
+tags: [english, song lyrics, {genre-tag}, {artist-tag}, {YYYY}s]
+
+image:
+path: "{image_url}"
+
+---
+
 YAML rules
 
 - Must start/end with `---` and contain valid YAML only.
@@ -42,6 +59,7 @@ YAML rules
 - No comments or Markdown inside YAML.
 - `tags` must include the artist tag (lowercase, hyphen-separated) and the release-decade tag (e.g., `2010s`).
 - `date` must be the post creation timestamp in `YYYY-MM-DD HH:MM:SS -0800` format; do not use the song release date here.
+- Follow existing repository tag conventions exactly. In particular, use `song lyrics` with a space, not `song-lyrics`, because both normalize to the same archive slug and can create destination conflicts.
 
 Timezone and current-time guidance
 
@@ -90,6 +108,7 @@ Summary section (Song Summary)
   - `### Popularity & Reception 🌟` - Summarize commercial performance, critical reception, and cultural impact
   - `### Legacy 🕊️` - Assess long-term influence and lasting significance
 - Keep the summary in English, neutral and encyclopedic in tone.
+- For English-language tracks, keep the same section order and tone; only the metadata content changes.
 
 Song Content subsection requirements (within Song Summary)
 
@@ -116,12 +135,17 @@ Lyrics section
 - Format example for each lyric line:
 
 ```
-湘女多情 暮色已落地  
-**Xiāng nǚ duō qíng mù sè yǐ luò dì**  
-The Hunan girl is sentimental, dusk has already fallen  
+湘女多情 暮色已落地
+**Xiāng nǚ duō qíng mù sè yǐ luò dì**
+The Hunan girl is sentimental, dusk has already fallen
 ```
 
+- For English-language lyric posts without chords, use plain lyric lines under the same section headers.
+- For English-language lyric posts with chords, use phrase-level chord annotations above lyric fragments rather than raw monospaced chord blocks when aesthetics matter.
+- For chorded English posts, place lyrics inside styled HTML containers when necessary to control alignment and readability in the Chirpy theme.
+
 **Important formatting rules:**
+
 - Each line must end with exactly two spaces before the newline (Markdown hard line break)
 - Apply this to all Chinese lines, romanization lines, and English translations
 - Use tone-mark pinyin for Mandarin and numeric jyutping for Cantonese
@@ -131,6 +155,20 @@ The Hunan girl is sentimental, dusk has already fallen
 - For English-only lines inside lyrics, render the English line bold by itself
 - Instrumental sections: include only the section header with no body lines
 - Separate stanzas with `---` horizontal rules
+- When using HTML-based chord layouts, do not add empty lyric spans just to preserve timing. Empty spans can leave orphaned chords at the ends of wrapped lines in dark mode and on small screens.
+- When chord changes fall at the very end of a phrase, rebalance the phrase grouping so each visible chord is attached to visible lyric text.
+
+English posts and chord charts
+
+- English-language posts should use `categories: [Lyrics, English]`.
+- English-language tags should remain lowercase and reuse existing repository conventions where possible, e.g. `english`, `song lyrics`, `rock`, `classic-rock`, `{artist-tag}`, `{YYYY}s`.
+- If the post title explicitly includes chords, use a title like `{Artist} - {Song Title} Lyrics and Chords`.
+- Add a `chords` tag only when the post contains an actual chord chart.
+- If the user wants a chord chart, prefer phrase-level inline chord annotations over fenced code blocks unless strict monospace alignment is specifically requested.
+- Include a visible key marker near the top of the lyrics section when chords are present.
+- For chord sheet styling, use theme-aware CSS tied to Chirpy variables such as `var(--card-bg)`, `var(--main-border-color)`, `var(--text-color)`, `var(--text-muted-color)`, and `var(--link-color)`.
+- Provide explicit dark-mode overrides using `html[data-mode='dark']` when a custom chord component needs stronger contrast than the default theme variables provide.
+- Avoid hard-coded light backgrounds for custom lyric or chord components; the site often runs in dark mode.
 
 Styling & emoji rules
 
@@ -138,13 +176,15 @@ Styling & emoji rules
 - One emoji per metadata line or header.
 - Emojis allowed only in metadata labels and headers (not in paragraphs).
 - Keep emoji usage consistent with examples in `_posts`.
+- For custom lyric/chord HTML blocks, keep styling restrained and consistent with Chirpy rather than introducing visually unrelated components.
 
 Filenames & post metadata
 
 - Filename format: `YYYY-MM-DD-Artist-Title.md` (use hyphens, ASCII where possible).
 - Put the post into `_posts/`.
-- `categories` should include `Lyrics` and the language (`Mandarin` or `Cantonese`).
-- `tags` must be lowercase and hyphen-separated.
+- `categories` should include `Lyrics` and the language (`Mandarin`, `Cantonese`, or `English`).
+- `tags` must be lowercase. Use existing repository spellings and spacing if a tag already exists.
+- The leading filename date should usually match the current generation date, but the front matter `date` must not be future-dated relative to the local Jekyll build, or the post will be skipped in preview and test builds.
 
 Filename example
 
@@ -153,6 +193,7 @@ Filename example
 Examples & references
 
 - Refer to existing posts in `_posts` for tone and formatting. Example: `/workspaces/Testing/_posts/2025-12-20-WangLeeHom-Mistake-at-the-Flower-Field.md` and `/workspaces/Testing/_posts/2025-12-24-JayChou-WontCry.md`.
+- For English lyric-and-chord posts, also refer to `/workspaces/Testing/_posts/2026-04-12-eagles-desperado.md` for the current preferred inline chord layout and dark-mode-safe styling.
 
 Preview & verification
 
@@ -179,17 +220,25 @@ Checklist before committing a generated post
 - [ ] `tags` include artist and release decade, lowercase
 - [ ] Spotify iframe present if a Spotify link is given
 - [ ] `style` helper block present
-- [ ] Summary metadata lines include emojis and are English
+- [ ] Summary metadata lines include emojis and the Song Summary is written in English
 - [ ] All seven subsections present in Song Summary: Overview, Composition, Song Content, Artistic Approach, Release & Context, Popularity & Reception, Legacy
-- [ ] EVERY lyric line includes: Chinese text + romanization (bold) + English translation
-- [ ] All lyric lines use the two-space line break rule
+- [ ] For Chinese posts, every lyric line includes Chinese text + romanization (bold) + English translation
+- [ ] For Chinese posts, all lyric lines use the two-space line break rule
+- [ ] For English lyrics-only posts, the lyrics section uses plain English lyric lines under the expected section headers
 - [ ] Filename follows `YYYY-MM-DD-Artist-Title.md` and is in `_posts/`
+- [ ] For English posts, categories and tags use the English-specific conventions above
+- [ ] For chord posts, every displayed chord is attached to visible lyric text
+- [ ] For custom lyric/chord styling, dark mode remains readable and no hard-coded light card is left behind
+- [ ] Front matter `date` is not future-dated relative to local build time
 
 Notes for Copilot usage
 
 - Prefer conservative edits: do not paraphrase lyrics; use provided lyrics verbatim.
 - When romanizing, preserve tone marks for pinyin and numeric tones for jyutping.
 - If any required field is missing from user input, prompt for it before generating the file.
+- If the user wants lyrics or chords for a copyrighted song and has not explicitly said they have permission to publish them, ask that question before generating or inserting the full lyrics/chord content.
+- When creating an English-language post in this repo, explicitly decide whether it is lyrics-only or lyrics-and-chords before drafting the body.
+- If adding new tags, check whether an equivalent existing tag already exists with spaces or different punctuation to avoid duplicate normalized archive paths.
 
 Contact
 
