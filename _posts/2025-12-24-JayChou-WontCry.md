@@ -2,7 +2,7 @@
 title: 周杰倫 Jay Chou - 說好不哭 (Won’t Cry) Lyrics
 date: 2025-12-24 00:00:00 -0800
 categories: [Lyrics, Mandarin]
-tags: [chinese, mandarin, pinyin, song lyrics, c-pop]
+tags: [chinese, mandarin, pinyin, song lyrics, c-pop, jay-chou, 2010s]
 image:
   path: https://i.kfs.io/article5_cover/global/7415175v1/fit/800x420.jpg
 ---

@@ -1,8 +1,8 @@
 ---
 title: 陈小春、张智霖、GAI等演唱歌曲 - 往事只能回味 (The past can only be reminisced) Lyrics
 date: 2025-05-18 08:00:00 -0800
-categories: [Lyrics, Translation]
-tags: [chinese, pinyin, song lyrics, cantonese, mandarin, bilingual]     # TAG names should always be lowercase
+categories: [Lyrics, Cantonese]
+tags: [chinese, pinyin, jyutping, song lyrics, cantonese, mandarin, bilingual, jordan-chan, 2020s]     # TAG names should always be lowercase
 
 image:
   path: assets/Post-Main/03-WangShi.jpg

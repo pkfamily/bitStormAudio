@@ -2,7 +2,7 @@
 title: 王力宏 Leehom Wang - 花田错 (Mistake in the Flower Field) Lyrics
 date: 2025-12-20 08:00:00 -0800
 categories: [Lyrics, Mandarin]
-tags: [chinese, pinyin, song lyrics, c-pop, mandarin]     # TAG names should always be lowercase
+tags: [chinese, pinyin, song lyrics, c-pop, mandarin, leehom-wang, 2000s]     # TAG names should always be lowercase
 
 image:
   path: https://image.slidesharecdn.com/200501210203-1198935555200284-5/75/200501210203-1-2048.jpg

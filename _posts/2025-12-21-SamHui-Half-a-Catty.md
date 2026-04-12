@@ -2,7 +2,7 @@
 title: 許冠傑 Sam Hui - 半斤八兩 (Six of One, Half a Dozen of the Other) Lyrics
 date: 2025-12-21 14:00:00 -0800
 categories: [Lyrics, Cantonese]
-tags: [chinese, cantonese, jyutping, song lyrics, cantopop]
+tags: [chinese, cantonese, jyutping, song lyrics, cantopop, sam-hui, 1970s]
 image:
   path: https://img.tvb.com/mytvs/poster/1380/h_137952_v1_o.jpg
 ---

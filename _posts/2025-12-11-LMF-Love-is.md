@@ -2,7 +2,7 @@
 title: LMF feat. 鄭秀文 (Sammi Cheng) - 愛是 (Love is...) Lyrics
 date: 2025-12-11 08:00:00 -0800
 categories: [Lyrics, Cantonese]
-tags: [chinese, pinyin, song lyrics, c-pop, cantonese,c-rap]     # TAG names should always be lowercase
+tags: [chinese, jyutping, song lyrics, c-pop, cantonese, c-rap, lmf, 2000s]     # TAG names should always be lowercase
 
 image:
   path: https://i.ytimg.com/vi/S9WDxYv6pv8/sddefault.jpg

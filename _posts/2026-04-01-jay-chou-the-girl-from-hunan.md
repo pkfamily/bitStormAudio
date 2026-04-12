@@ -2,7 +2,7 @@
 title: 周杰倫 Jay Chou - 湘女多情 (The Girl from Hunan) Lyrics
 date: 2026-03-31 00:00:00 -0800
 categories: [Lyrics, Mandarin]
-tags: [chinese, mandarin, song lyrics, c-pop, jay-chou, 2020s]
+tags: [chinese, mandarin, pinyin, song lyrics, c-pop, jay-chou, 2020s]
 image:
   path: https://i.ytimg.com/vi/FlkuLmYbFIY/maxresdefault.jpg
 ---

@@ -60,6 +60,9 @@ YAML rules
 - `tags` must include the artist tag (lowercase, hyphen-separated) and the release-decade tag (e.g., `2010s`).
 - `date` must be the post creation timestamp in `YYYY-MM-DD HH:MM:SS -0800` format; do not use the song release date here.
 - Follow existing repository tag conventions exactly. In particular, use `song lyrics` with a space, not `song-lyrics`, because both normalize to the same archive slug and can create destination conflicts.
+- Categories should stay language-based: use `Lyrics` plus the primary language category, not `Translation`.
+- For artist tags, prefer one canonical lowercase hyphenated ASCII tag where practical, and avoid duplicate native-script artist tags when an ASCII canonical tag already exists.
+- For Chinese posts, use `pinyin` for Mandarin and `jyutping` for Cantonese; if a post genuinely mixes Mandarin and Cantonese lyrics, include both language tags and both romanization tags.
 
 Timezone and current-time guidance
 
@@ -194,6 +197,7 @@ Examples & references
 
 - Refer to existing posts in `_posts` for tone and formatting. Example: `/workspaces/Testing/_posts/2025-12-20-WangLeeHom-Mistake-at-the-Flower-Field.md` and `/workspaces/Testing/_posts/2025-12-24-JayChou-WontCry.md`.
 - For English lyric-and-chord posts, also refer to `/workspaces/Testing/_posts/2026-04-12-eagles-desperado.md` for the current preferred inline chord layout and dark-mode-safe styling.
+- Reusable workspace prompts are available at `/.github/prompts/chinese-lyrics-post.prompt.md` and `/.github/prompts/english-lyrics-chords.prompt.md`.
 
 Preview & verification
 

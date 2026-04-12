@@ -1,8 +1,8 @@
 ---
 title: 王以太, 詹雯婷, 黃旭 - 友情岁月 (Friendship Years) Lyrics
 date: 2025-05-17 08:00:00 -0800
-categories: [Lyrics, Translation]
-tags: [chinese, pinyin, song lyrics, c-pop, mandarin, cantonese, faye, huang xu, wang yi tai, 王以太]     # TAG names should always be lowercase
+categories: [Lyrics, Mandarin]
+tags: [chinese, pinyin, jyutping, song lyrics, c-pop, mandarin, cantonese, faye, huang-xu, wang-yi-tai, 2020s]     # TAG names should always be lowercase
 
 image:
   path: assets/Post-Main/01-youqing-suiyue.jpg

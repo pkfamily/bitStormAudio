@@ -2,7 +2,7 @@
 title: 陳奕迅 (Eason Chan) - 歲月如歌 (Life is Like a Song) Lyrics
 date: 2025-12-07 08:00:00 -0800
 categories: [Lyrics, Cantonese]
-tags: [chinese, pinyin, song lyrics, c-pop, bilingual, eason chan, 陳奕迅]     # TAG names should always be lowercase
+tags: [chinese, jyutping, song lyrics, c-pop, eason-chan, 2000s]     # TAG names should always be lowercase
 
 image:
   path: https://i.ytimg.com/vi/mYwCv_34LNQ/maxresdefault.jpg

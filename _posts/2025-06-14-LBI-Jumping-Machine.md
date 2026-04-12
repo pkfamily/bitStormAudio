@@ -2,7 +2,7 @@
 title:  LBI利比  - 跳樓機 (Jumping Machine) Lyrics
 date: 2025-06-14 00:00:00 -0000
 categories: [Lyrics, Mandarin]
-tags: [chinese, pinyin, song lyrics, c-pop,LBI利比]     # TAG names should always be lowercase
+tags: [chinese, pinyin, song lyrics, c-pop, lbi利比, 2020s]     # TAG names should always be lowercase
 
 image:
   path: https://p2.music.126.net/hbQZUloyJqQJxaPEZFY-5g==/109951170141958066.jpg

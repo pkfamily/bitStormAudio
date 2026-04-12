@@ -5,10 +5,10 @@ categories:
   - Lyrics
   - Japanese
 tags:
-  - Japanese
-  - Romaji
+  - japanese
+  - romaji
   - song lyrics
-  - Riria
+  - riria
   - 2020s
 image:
   path: https://i.ytimg.com/vi/WOELbxxtELA/maxresdefault.jpg

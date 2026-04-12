@@ -2,7 +2,7 @@
 title: 五月天 (Mayday) - 乾杯 (Cheers) Lyrics
 date: 2025-12-10 08:00:00 -0800
 categories: [Lyrics, Mandarin]
-tags: [chinese, pinyin, song lyrics, c-pop, mandarin]     # TAG names should always be lowercase
+tags: [chinese, pinyin, song lyrics, c-pop, mandarin, mayday, 2010s]     # TAG names should always be lowercase
 
 image:
   path: https://i.ytimg.com/vi/tzfM5DqySPI/maxresdefault.jpg
