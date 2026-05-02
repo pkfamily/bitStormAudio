@@ -151,25 +151,55 @@ Released in 1973 on the album *Desperado*, the song emerged from a period when t
 <div class="chord-sheet">
   <p class="key-signature"><strong>Key:</strong> G</p>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G</span><span class="lyric">Desperado,</span></span>
-    <span class="chord-segment"><span class="chord">Gmaj7</span><span class="lyric">why don't you come to your senses?</span></span>
+    <span class="chord-segment"><span class="chord">G G9</span><span class="lyric">Desperado,</span></span>
+    <span class="chord-segment"><span class="chord">C Cm6</span><span class="lyric">why don't you come to your senses?</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G7</span><span class="lyric">You've been out ridin' fences</span></span>
-    <span class="chord-segment"><span class="chord">C</span><span class="lyric">for so long now</span></span>
+    <span class="chord-segment"><span class="chord">G Em7</span><span class="lyric">You've been out ridin' fences</span></span>
+    <span class="chord-segment"><span class="chord">A7 D7</span><span class="lyric">for so long now</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G</span><span class="lyric">Oh, you're a hard one</span></span>
+    <span class="chord-segment"><span class="chord">G9 G9sus4</span><span class="lyric">Oh, you're a hard one</span></span>
   </div>
   <div class="chord-line">
     <span class="chord-segment"><span class="chord">C</span><span class="lyric">I know that you got</span></span>
-    <span class="chord-segment"><span class="chord">G/B</span><span class="lyric">your reasons</span></span>
+    <span class="chord-segment"><span class="chord">Cm6</span><span class="lyric">your reasons</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">Am7</span><span class="lyric">These things that are pleasin' you</span></span>
+    <span class="chord-segment"><span class="chord">G/D B/D# Em7-</span><span class="lyric">These things that are pleasin' you</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G</span><span class="lyric">Can hurt you somehow</span></span>
+    <span class="chord-segment"><span class="chord">A7 D7 G D/F#</span><span class="lyric">Can hurt you somehow</span></span>
+  </div>
+</div>
+
+---
+
+### Chorus 🎵
+
+<div class="chord-sheet">
+  <div class="chord-line">
+    <span class="chord-segment"><span class="chord">Em7 Bm7</span><span class="lyric">Don't you draw the queen of diamonds, boy</span></span>
+  </div>
+  <div class="chord-line">
+    <span class="chord-segment"><span class="chord">C- G G/F#</span><span class="lyric">She'll beat you if she's able</span></span>
+  </div>
+  <div class="chord-line">
+    <span class="chord-segment"><span class="chord">Em7</span><span class="lyric">You know the queen of hearts</span></span>
+    <span class="chord-segment"><span class="chord">C G D/F#</span><span class="lyric">is always your best bet</span></span>
+  </div>
+  <div class="chord-line">
+    <span class="chord-segment"><span class="chord">Em7</span><span class="lyric">Now it seems to me,</span></span>
+    <span class="chord-segment"><span class="chord">Bm7</span><span class="lyric">some fine things</span></span>
+  </div>
+  <div class="chord-line">
+    <span class="chord-segment"><span class="chord">C</span><span class="lyric">Have been laid upon</span></span>
+    <span class="chord-segment"><span class="chord">G</span><span class="lyric">your table</span></span>
+  </div>
+  <div class="chord-line">
+    <span class="chord-segment"><span class="chord">Em7</span><span class="lyric">But you only want</span></span>
+    <span class="chord-segment"><span class="chord">A7</span><span class="lyric">the ones that you</span></span>
+    <span class="chord-segment"><span class="chord">C/D D7</span><span class="lyric">can't get</span></span>
   </div>
 </div>
 
@@ -179,74 +209,47 @@ Released in 1973 on the album *Desperado*, the song emerged from a period when t
 
 <div class="chord-sheet">
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G</span><span class="lyric">Don't you draw the queen of diamonds, boy</span></span>
+    <span class="chord-segment"><span class="chord">G G9sus4</span><span class="lyric">Desperado, oh you ain't,</span></span>
+    <span class="chord-segment"><span class="chord">C C*</span><span class="lyric"> gettin' no younger</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G7</span><span class="lyric">She'll beat you if she's able</span></span>
+    <span class="chord-segment"><span class="chord">G D/F# Em7-</span><span class="lyric">Your pain and your hunger,</span></span>
+    <span class="chord-segment"><span class="chord">A7 C/D</span><span class="lyric">they're drivin' you home</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G/B</span><span class="lyric">You know the queen of hearts</span></span>
-    <span class="chord-segment"><span class="chord">E7</span><span class="lyric">is always your best bet</span></span>
+    <span class="chord-segment"><span class="chord">G G9</span><span class="lyric">And freedom, oh freedom well,</span></span>
+    <span class="chord-segment"><span class="chord">C C*</span><span class="lyric">that's just some people talkin'</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G</span><span class="lyric">Now it seems to me,</span></span>
-    <span class="chord-segment"><span class="chord">Gmaj7</span><span class="lyric">some fine things</span></span>
-  </div>
-  <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G7</span><span class="lyric">Have been laid upon</span></span>
-    <span class="chord-segment"><span class="chord">C</span><span class="lyric">your table</span></span>
-  </div>
-  <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G/B</span><span class="lyric">But you only want</span></span>
-    <span class="chord-segment"><span class="chord">D7</span><span class="lyric">the ones that you</span></span>
-    <span class="chord-segment"><span class="chord">G</span><span class="lyric">can't get</span></span>
+    <span class="chord-segment"><span class="chord">G B7/F# Em7-</span><span class="lyric">Your prison is walking through</span></span>
+    <span class="chord-segment"><span class="chord">A7 D7</span><span class="lyric">this world all</span></span>
+    <span class="chord-segment"><span class="chord">G* D/F#</span><span class="lyric">alone</span></span>
   </div>
 </div>
 
 ---
 
-### Verse 3 🎵
+### Chorus 🌉
 
 <div class="chord-sheet">
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">Em</span><span class="lyric">Desperado, oh,</span></span>
-    <span class="chord-segment"><span class="chord">B7</span><span class="lyric">you ain't gettin' no younger</span></span>
+    <span class="chord-segment"><span class="chord">Em7 Bm7</span><span class="lyric">Don't your feet get cold in the winter time?</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">C</span><span class="lyric">Your pain and your hunger,</span></span>
-    <span class="chord-segment"><span class="chord">G</span><span class="lyric">they're drivin' you home</span></span>
+    <span class="chord-segment"><span class="chord">C- G Bm7/F#</span><span class="lyric">The sky won't snow and the sun won't shine</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">Em</span><span class="lyric">And freedom, oh freedom well,</span></span>
-    <span class="chord-segment"><span class="chord">B7</span><span class="lyric">that's just some people talkin'</span></span>
+    <span class="chord-segment"><span class="chord">Em7 C</span><span class="lyric">It's hard to tell the night time from the</span></span>
+    <span class="chord-segment"><span class="chord">G</span><span class="lyric">day</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">Am7</span><span class="lyric">Your prison is walking</span></span>
-    <span class="chord-segment"><span class="chord">D7</span><span class="lyric">through this world</span></span>
-    <span class="chord-segment"><span class="chord">G</span><span class="lyric">all alone</span></span>
-  </div>
-</div>
-
----
-
-### Bridge 🌉
-
-<div class="chord-sheet">
-  <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G7</span><span class="lyric">Don't your feet get cold in the winter time?</span></span>
+    <span class="chord-segment"><span class="chord">Em7 Bm7</span><span class="lyric">You're losin' all your highs and lows</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">C</span><span class="lyric">The sky won't snow and the sun won't shine</span></span>
+    <span class="chord-segment"><span class="chord">C G</span><span class="lyric">Ain't it funny how the feeling goes</span></span>
   </div>
-  <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G/B</span><span class="lyric">It's hard to tell the night time</span></span>
-    <span class="chord-segment"><span class="chord">Em</span><span class="lyric">from the day</span></span>
-  </div>
-  <div class="chord-line">
-    <span class="chord-segment"><span class="chord">Am7</span><span class="lyric">You're losin' all your highs and lows</span></span>
-  </div>
-  <div class="chord-line">
-    <span class="chord-segment"><span class="chord">A7</span><span class="lyric">Ain't it funny how the feeling goes away?</span></span>
+    <div class="chord-line">
+    <span class="chord-segment"><span class="chord">Am7 C/D D7</span><span class="lyric">away?</span></span>
   </div>
 </div>
 
@@ -256,28 +259,28 @@ Released in 1973 on the album *Desperado*, the song emerged from a period when t
 
 <div class="chord-sheet">
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G</span><span class="lyric">Desperado,</span></span>
-    <span class="chord-segment"><span class="chord">Gmaj7</span><span class="lyric">why don't you come to your senses?</span></span>
+    <span class="chord-segment"><span class="chord">G G9*</span><span class="lyric">Desperado,</span></span>
+    <span class="chord-segment"><span class="chord">C Cm6</span><span class="lyric">why don't you come to your senses?</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G7</span><span class="lyric">Come down from your fences,</span></span>
-    <span class="chord-segment"><span class="chord">C</span><span class="lyric">open the gate</span></span>
+    <span class="chord-segment"><span class="chord">G D/F# Em7-</span><span class="lyric">Come down from your fences,</span></span>
+    <span class="chord-segment"><span class="chord">A7 D7</span><span class="lyric">open the gate</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G/B</span><span class="lyric">It may be rainin', but there's</span></span>
-    <span class="chord-segment"><span class="chord">Em</span><span class="lyric">a rainbow above you</span></span>
+    <span class="chord-segment"><span class="chord">G G9*</span><span class="lyric">It may be rainin', but there's</span></span>
+    <span class="chord-segment"><span class="chord">C Cm6</span><span class="lyric">a rainbow above you</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">Am7</span><span class="lyric">You better let somebody</span></span>
-    <span class="chord-segment"><span class="chord">D7</span><span class="lyric">love you</span></span>
+    <span class="chord-segment"><span class="chord">G D/F#</span><span class="lyric">You better let somebody</span></span>
+    <span class="chord-segment"><span class="chord">Em7</span><span class="lyric">love you</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">G/B</span><span class="lyric">(Let somebody</span></span>
-    <span class="chord-segment"><span class="chord">Em</span><span class="lyric">love you)</span></span>
+    <span class="chord-segment"><span class="chord">C G/B</span><span class="lyric">(Let somebody</span></span>
+    <span class="chord-segment"><span class="chord">Am7</span><span class="lyric">love you)</span></span>
   </div>
   <div class="chord-line">
-    <span class="chord-segment"><span class="chord">Am7</span><span class="lyric">You better let somebody</span></span>
-    <span class="chord-segment"><span class="chord">D7</span><span class="lyric">love you before</span></span>
-    <span class="chord-segment"><span class="chord">G</span><span class="lyric">it's too late</span></span>
+    <span class="chord-segment"><span class="chord">G/D B/D#</span><span class="lyric">You better let somebody</span></span>
+    <span class="chord-segment"><span class="chord">Em7</span><span class="lyric">love you</span></span>
+    <span class="chord-segment"><span class="chord">Am7(4)</span><span class="lyric">before it's too late</span></span>
   </div>
 </div>
