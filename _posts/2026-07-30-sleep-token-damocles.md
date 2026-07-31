@@ -1,6 +1,6 @@
 ---
 title: Sleep Token - Damocles Lyrics and Chords
-date: 2026-07-31 00:00:00 -0800
+date: 2026-07-30 20:00:00 -0700
 categories: [Lyrics, English]
 tags: [english, song lyrics, chords, rock, alternative-metal, sleep-token, 2020s]
 
