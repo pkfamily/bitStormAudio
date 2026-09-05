@@ -1,43 +1,64 @@
-# Chirpy Starter
+# Bit Storm Audio
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+A Jekyll-powered blog dedicated to annotated song lyrics, translations, and music writing in Mandarin, Cantonese, and English.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## Overview
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Bit Storm Audio features:
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+- Chinese and English lyric posts with romanization and translation
+- Genre-focused music writing and cultural context
+- Chord charts for select English-language songs
+- A dark-mode blog layout built with the Chirpy theme
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+## Tech stack
+
+- Jekyll
+- Ruby / Bundler
+- Chirpy theme
+- GitHub Pages-ready static site generation
+
+## Local development
+
+```bash
+./tools/run.sh            # Start the Jekyll dev server with live reload
+./tools/run.sh -p         # Production preview mode
+./tools/test.sh           # Full site build and validation check
+bundle install            # Install Ruby dependencies
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+The local site is typically available at:
 
-## Usage
+- http://127.0.0.1:4000
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+## Project structure
 
-## Contributing
+```text
+.
+├── _posts/                 # Published lyric/music posts
+├── _tabs/                 # Top-level pages (About, Archives, Tags, etc.)
+├── _data/                 # Site metadata and social/contact config
+├── _plugins/              # Custom Jekyll hooks
+├── assets/                # Images, avatars, and theme assets
+├── tools/                 # Local build and generation scripts
+├── _config.yml            # Site configuration
+├── Gemfile                # Ruby dependencies
+├── index.html             # Homepage entry point
+├── README.md              # Project overview
+├── LICENSE                # Project license
+└── _site/                 # Generated static site output
+```
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+## Writing posts
+
+Most content work in this repository is creating a new file in `_posts/` using the project conventions described in the repo guidance files.
+
+Useful references:
+
+- `CLAUDE.md` — repository-specific authoring and build notes
+- `copilot-instructions.md` — detailed post-formatting rules
+- `tools/generate_post.py` — scaffolds new lyric posts
 
 ## License
 
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
