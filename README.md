@@ -2,6 +2,8 @@
 
 A Jekyll-powered blog dedicated to annotated song lyrics, translations, and music writing in Mandarin, Cantonese, and English.
 
+🌐 Live site: [bitstormaudio.com](https://bitstormaudio.com/)
+
 ## Overview
 
 Bit Storm Audio features:
@@ -10,6 +12,10 @@ Bit Storm Audio features:
 - Genre-focused music writing and cultural context
 - Chord charts for select English-language songs
 - A dark-mode blog layout built with the Chirpy theme
+
+## Website preview
+
+![Bit Storm Audio homepage](https://image.thum.io/get/width/1200/https://bitstormaudio.com/)
 
 ## Tech stack
 
