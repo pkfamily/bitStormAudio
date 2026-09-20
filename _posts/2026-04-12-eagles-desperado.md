@@ -26,7 +26,7 @@ g { color: Green }
   margin: 1rem 0 1.5rem;
   padding: 1.1rem 1.25rem;
   border: 1px solid var(--chord-sheet-border);
-  border-radius: 16px;
+  border-radius: 18px;
   background: var(--chord-sheet-bg);
   box-shadow: var(--chord-sheet-shadow);
 }
@@ -69,19 +69,19 @@ g { color: Green }
 html:not([data-mode]),
 html[data-mode='light'] {
   .chord-sheet {
-    --chord-sheet-bg: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(248, 250, 252, 0.9));
-    --chord-sheet-border: rgba(148, 163, 184, 0.32);
-    --chord-sheet-shadow: 0 10px 24px rgba(15, 23, 42, 0.05);
-    --chord-sheet-chord: #0f4c81;
-    --chord-sheet-muted: #64748b;
-    --chord-sheet-lyric: var(--text-color);
+    --chord-sheet-bg: rgba(34, 34, 38, 0.96);
+    --chord-sheet-border: rgba(255, 255, 255, 0.06);
+    --chord-sheet-shadow: 0 12px 24px rgba(0, 0, 0, 0.18);
+    --chord-sheet-chord: #f5c76d;
+    --chord-sheet-muted: #a1a1aa;
+    --chord-sheet-lyric: #f3f4f6;
   }
 }
 
 html[data-mode='dark'] {
   .chord-sheet {
-    --chord-sheet-bg: linear-gradient(180deg, rgba(38, 38, 42, 0.96), rgba(29, 29, 32, 0.94));
-    --chord-sheet-border: rgba(255, 255, 255, 0.08);
+    --chord-sheet-bg: var(--card-bg);
+    --chord-sheet-border: var(--main-border-color);
     --chord-sheet-shadow: 0 14px 28px rgba(0, 0, 0, 0.28);
     --chord-sheet-chord: #f5c76d;
     --chord-sheet-muted: #a1a1aa;
