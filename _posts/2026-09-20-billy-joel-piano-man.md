@@ -5,7 +5,7 @@ categories: [Lyrics, English]
 tags: [english, song lyrics, chords, rock, classic-rock, billy-joel, 1970s]
 
 image:
-  path: https://upload.wikimedia.org/wikipedia/commons/5/58/Billy_Joel_-_Piano_Man.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original
+  path: https://parade.com/.image/ODowMDAwMDAwMDAyMTMxMTcx/billy-joel-piano.jpg
 ---
 
 <style>
