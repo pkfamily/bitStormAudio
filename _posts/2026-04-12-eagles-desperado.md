@@ -146,6 +146,17 @@ Released in 1973 on the album *Desperado*, the song emerged from a period when t
 
 ## 📖 Lyrics
 
+### Intro 🎵
+
+<div class="chord-sheet">
+  <div class="chord-line">
+    <span class="chord-segment"><span class="chord">G G7 C Cm6</span><span class="lyric">GB* D B / (FBE) D B G / CE* G E / (CEbA) G G</span></span>
+  </div>
+  <div class="chord-line">
+    <span class="chord-segment"><span class="chord"> G Em A7 D</span><span class="lyric">GB* D B / (GBE) D B G / GB* A G (DF#A)</span></span>
+  </div>
+</div>
+
 ### Verse 1 🎵
 
 <div class="chord-sheet">
@@ -282,5 +293,15 @@ Released in 1973 on the album *Desperado*, the song emerged from a period when t
     <span class="chord-segment"><span class="chord">G/D B/D#</span><span class="lyric">You better let somebody</span></span>
     <span class="chord-segment"><span class="chord">Em7</span><span class="lyric">love you</span></span>
     <span class="chord-segment"><span class="chord">Am7(4)</span><span class="lyric">before it's too late</span></span>
+  </div>
+</div>
+
+---
+
+### Outro 🎵
+
+<div class="chord-sheet">
+  <div class="chord-line">
+    <span class="chord-segment"><span class="chord">G G7 C Cm6 G</span><span class="lyric">GB* D B / (FBE) D B G / CE* G E / (CEbA) G G C / GB*</span></span>
   </div>
 </div>
